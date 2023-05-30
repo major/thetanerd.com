@@ -30,6 +30,9 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Build with Hugo
+        run: hugo --minify
+
       - name: Publish to Cloudflare Pages
         uses: cloudflare/pages-action@v1.5.0
         with:
