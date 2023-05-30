@@ -10,7 +10,7 @@ copyright = "All content <a href=\"https://creativecommons.org/licenses/by-sa/4.
   displayName = "EN"
   rtl = false
 
-  dateFormat = "2 January 2006"
+  dateFormat = "January 2, 2006"
 
   # mainSections = ["posts", "section2"]
   # description = "My awesome website"
