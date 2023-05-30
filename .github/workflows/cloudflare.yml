@@ -6,10 +6,8 @@ on:
   workflow_dispatch:
 
 permissions:
-    contents: write
     deployments: write
     id-token: write
-    pages: write
 
 concurrency:
   group: "pages"
