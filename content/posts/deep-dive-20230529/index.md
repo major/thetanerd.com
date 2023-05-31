@@ -1,5 +1,5 @@
 ---
-title: "Deep dive for May 29, 2023"
+title: "AMD analysis for May 29, 2023"
 date: 2023-05-29
 draft: false
 coverAlt: Man walking in the snow at night under the northern lights
