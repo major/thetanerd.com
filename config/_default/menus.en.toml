@@ -27,7 +27,7 @@
 
 [[main]]
   name = "My Trades"
-  url = "https://thetagang.com/mhayden"
+  url = "https://thetagang.com/major"
   weight = 25
   [main.params]
     # icon = "github"
