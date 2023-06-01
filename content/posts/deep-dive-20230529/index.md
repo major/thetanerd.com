@@ -1,7 +1,8 @@
 ---
 title: "AMD analysis for May 29, 2023"
 date: 2023-05-29
-draft: false
+tags:
+  - AMD
 coverAlt: Man walking in the snow at night under the northern lights
 coverCaption: |
     Photo by [Christian Cueni](https://unsplash.com/photos/oiPgftwdIeU)

@@ -35,10 +35,10 @@
     target = "_blank"
 
 
-# [[main]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 30
+[[main]]
+  name = "RSS"
+  url = "/index.xml"
+  weight = 30
 
 [[main]]
   identifier = "search"

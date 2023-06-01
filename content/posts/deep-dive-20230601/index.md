@@ -4,6 +4,8 @@ summary: >
     Let's have a look at what AMD has done so far this week and how the options market
     looks through June 16.
 date: 2023-06-01
+tags:
+  - AMD
 coverAlt: Early morning photo of a beach with palm trees and faraway buildings
 coverCaption: |
     Photo by [Anthony Adu](https://unsplash.com/photos/Emthii3XYLM)
