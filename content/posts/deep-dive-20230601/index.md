@@ -1,6 +1,6 @@
 ---
 title: "AMD analysis for June 1, 2023"
-summary: |
+summary: >
     Let's have a look at what AMD has done so far this week and how the options market
     looks through June 16.
 date: 2023-06-01
