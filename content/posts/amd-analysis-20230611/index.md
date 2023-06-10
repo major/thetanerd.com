@@ -123,6 +123,7 @@ While I browsed some of the charts on Tradytics, I found some other information:
 # Thesis
 
 I'm sitting on 500 shares of AMD with 200 of them covered by $110 calls that expire this week.
+You can follow along with my trades via my [Theta Gang profile](https://thetagang.com/major).
 Those $110 calls look pretty ugly right about now and I sold them much too soon. 😭
 
 I really like this $110-$125 range for making bullish trades, especially as $AMD approaches $110.
