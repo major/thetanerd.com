@@ -34,6 +34,10 @@
     # showName = false
     target = "_blank"
 
+[[main]]
+  name = "Mastodon"
+  url = "https://c.im/@majortrades"
+  weight = 29
 
 [[main]]
   name = "RSS"
