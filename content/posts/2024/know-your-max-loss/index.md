@@ -20,7 +20,7 @@ You might have noticed that I use the phrase “know your max” loss frequently
 
 This post talks about boring stuff, such as calculating your max loss, and deeper thoughts around what hitting a max loss **feels like**.
 
-# The source
+## The source
 
 I originally heard about maximum loss on the [Theta Gang podcast](https://podcasts.apple.com/us/podcast/theta-gang/id1474557787). Joonie drives the point home repeatedly that you need to do two things:
 
@@ -29,7 +29,7 @@ I originally heard about maximum loss on the [Theta Gang podcast](https://podcas
 
 These are two distinct items that require different levels of thought. Let’s start with the easy one.
 
-# Boring calculator time
+## Boring calculator time
 
 Calculating your maximum loss is fairly straightforward for stock trades.
 
@@ -51,7 +51,7 @@ There’s a well known phrase from economist [John Maynard Keynes](https://en.wi
 
 > Markets can remain irrational longer than you can remain solvent.
 
-# Truly knowing
+## Truly knowing
 
 There’s a difference between:
 
@@ -70,11 +70,11 @@ Here’s a classic:
 ![](https://old.thetanerd.com/posts/know-your-max-loss/fubo.png)Ugly FUBO trade from 2020
 I said I was okay with potentially owning $FUBO at $50. I was wrong. There were many trades like these before I finally realized: **“Wow, I’m not okay with this. This is terrible.”**
 
-# Better habits
+## Better habits
 
 I changed lots of trading habits to gradually make improvements and that’s been paying off recently. Here are a few things you may want to consider:
 
-## Track and follow fewer tickers
+### Track and follow fewer tickers
 
 One of my biggest mistakes involved tracking hot tickers and trying to guess where they’re going. I rarely learned enough about their market segment or whether the company actually made money.
 
@@ -88,7 +88,7 @@ One of my favorite authors, [Fred McAllen](https://www.goodreads.com/author/list
 
 Just a reminder: analysts and reporters were in love with Enron even as it went over the financial cliff into ruin. 😉
 
-## Wait, don’t chase
+### Wait, don’t chase
 
 When you study a chart or review options data for a particular stock, set the points where you think an entry would be a good idea. Look for good spots to buy when price gets back to reasonable levels after a correction. Also look for areas where the stock price is outrunning its liquidity and those might be good spots to sell.
 
@@ -98,7 +98,7 @@ By setting these entry points, you’re less likely to chase a stock up or down 
 
 Build the plan, follow the plan, and use what you learned to build the next plan.
 
-## No trades can be good trades
+### No trades can be good trades
 
 Sometimes stock prices go nuts. Bubbles happen. Just don’t be on a bubble when it pops. 🫧
 
@@ -118,7 +118,7 @@ This is also a good time to stress test your thesis on the stock. In other words
 
 I’m typically trading with a bullish bias, so I often ask myself what thesis I could make for shorting a particular stock. I dig into charts, options data, and earnings reports to see if I can poke holes in a bullish thesis.
 
-# Conclusion
+## Conclusion
 
 Knowing your max loss means more than just calculating it. You must be mentally prepared for it before making the trade.
 

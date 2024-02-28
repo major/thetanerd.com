@@ -22,13 +22,13 @@ I've tried to answer many of those emails individually (you can [email me anytim
 
 This post covers how I'm doing my trades this year and the reasoning behind my approach.
 
-# Short side of options
+## Short side of options
 
 Most people are familiar with the long side of options trading. Buying a call option on a rising stock leads to great returns. Buying a put option on a falling stock can bring gains or protect a long stock holding against losses.
 
 I prefer to play the other side of the options game: the short side. My typical trade is a short put. A long put makes money when a stock price falls but a short put makes money when a stock goes up, trades sideways, or moves down slightly.
 
-# What's a short put?
+## What's a short put?
 
 The easiest way I've found to explain short puts is that it's similar to selling an insurance policy to someone else. When an insurance company sells you insurance for your car, they're making a bet that you will be a great driver and won't need to file a claim. However, they hedge that bet by analyzing your driving history, the value of your car, how much it costs to repair it, and where you park the car overnight.
 
@@ -44,7 +44,7 @@ If a stock is trading at $100, and I feel strongly that it's likely to remain ab
 
 Short puts are highly efficient with your capital in your brokerage account, too. Buying 100 shares of a $100 stock might take up as much as $2,500-$5,000 of capital depending on my margin rates. Selling a put on a $100 stock (which controls 100 shares) might only use $800-$1,500 worth of capital, depending on the stock in question.
 
-# What happens when things go wrong?
+## What happens when things go wrong?
 
 When you buy a long put, you have the *right*, but not the *obligation*, to "put" your stock to someone else. If you hold 100 shares of a $100 stock and you buy a put at $90, you have the *right* to put that stock on someone else at $90, no matter how far the price falls.
 
@@ -68,7 +68,7 @@ At this moment, as the put seller, you are *obligated* to buy those shares at $9
 
 Your total loss here is $1,000 on the shares, but you collected $200 in premium. The net loss is $800. Then 100 shares of stock show up in your account on Monday and you can sell the shares immediately or start selling covered calls on the shares (the wheel strategy is complex and I'll explain more in a later post).
 
-# What's the worst case scenario?
+## What's the worst case scenario?
 
 The max loss on any short put is 100 times the strike price of the option. In our last example, selling a $90 put means that your maximum loss is $9,000 (minus any premium you collected). That would require the stock to fall completely to $0.
 
@@ -76,7 +76,7 @@ Have I ever sold a put and seen a stock run to $0? **Definitely not.**
 
 Have I sold a $100 put and seen the stock fall to $50? **More than once. It hurts. 🤕**
 
-# How do I pick my puts?
+## How do I pick my puts?
 
 My rules for trading puts have been refined over time as my risk tolerance and account sizes changed. Here are my rules:
 
@@ -90,7 +90,7 @@ My rules for trading puts have been refined over time as my risk tolerance and a
 
 **One of the strategies that has helped me immensely is developing a screener that only shows me the trades that meet my requirements.** This forces the trades to come to me rather than forcing me to hunt around for trades in various places and potentially breaking my rules. It also allows me to quickly compare the return on risk to see which trades give me the best potential return for the cash I'm risking.
 
-# Avoiding assignment
+## Avoiding assignment
 
 In the past, I typically would take assignment on stock when my short put had a loss. Then I would begin selling covered calls, have the stock called away, and then start over with puts. This seems fairly capital inefficient to me because holding the stock takes up so much more capital in my account.
 

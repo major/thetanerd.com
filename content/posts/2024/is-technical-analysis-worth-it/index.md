@@ -25,7 +25,7 @@ That's the topic of today's post.
 
 Let's get into it.
 
-# What is technical analysis?
+## What is technical analysis?
 
 Tons of definitions exist for what technical analysis is (and is not), but I've come to realize that it **isn't a way to predict the future.** That was my assumption for the longest time. Get the right indicators and the right lines on the chart and boom – it's a freight train to profit town.
 
@@ -35,7 +35,7 @@ Technical analysis really comes down to analyzing a chart not for a prediction o
 
 Predicting price movement is essentially impossible. Sure, you can get an edge from time to time via legal (or illegal) means, but for most of us, we have no idea where price will go in the next few minutes or the next few days.
 
-# What do you mean by assessing risk?
+## What do you mean by assessing risk?
 
 Let's take an example from another field that has a difficult time with predictions: weather.
 
@@ -53,7 +53,7 @@ But do you start thinking about what you would do if it really does rain? Sure, 
 
 We need to do the same with charts. Charts don't tell us when the rain is coming or how bad it will be, but they help us identify the risk and quantify how much risk we're taking on with a trade.
 
-# How do we use this in the market?
+## How do we use this in the market?
 
 Everyone looks for different things on a chart to determine their risk for a particular trade. Let's say you examine a chart and you see a chart pattern with an indicator that both point you towards a risk to the upside. Great!
 
@@ -74,7 +74,7 @@ Start by thinking about what you plan to do when you're wrong. Set a stop loss o
 
 If you turn out to be right, consider adding to the position. **This is extremely hard to do.** You've already set your stop loss point in case you were wrong, so why not add to the position when you've made the right call?
 
-# Adding when it hurts
+## Adding when it hurts
 
 After reading Tom's book, I started thinking about a football (American football) coach that was talking about one of his past performances. I wish I had the quote, but you'll have to endure the paraphrasing I'll do below. 
 

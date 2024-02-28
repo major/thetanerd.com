@@ -20,7 +20,7 @@ Howdy, everyone! During my holiday time off from work, I spent a lot of time ref
 
 Let's get right to it!
 
-# Best Loser Wins
+## Best Loser Wins
 
 I read Tom Hougaard's [*Best Loser Wins*](https://www.goodreads.com/book/show/60872327-best-loser-wins) on the advice of another options trader and it was a real eye opener for me. This book has so much to offer for improving your trading as well as your personal life and health. Tom's goal here is to change how you think and to be comfortable with making some decisions that feel diametrically opposed to what feels like the right thing to do.
 
@@ -64,7 +64,7 @@ Even then, with all of those free tools from brokerages, **the failure rate of t
 
 In summary, Tom's book is an excellent one to read to improve your trading as well as your personal life.
 
-# Further reading and viewing
+## Further reading and viewing
 
 Tom has [lots of helpful videos](https://www.youtube.com/@TraderTom/videos) for altering your trading mindset and he has some with some live trading, too. The ones that caught me by surprise and really made me think were some recordings of the late Dr. David Paul speaking about trading psychology as well as how he makes some of his trades:
 
@@ -78,7 +78,7 @@ Tom has [lots of helpful videos](https://www.youtube.com/@TraderTom/videos) for 
 
 I wish I had the opportunity to meet David in person. His speaking style is so easy to follow and he pushes the audience to think differently through useful anecdotes and a dry sense of humor. 😉
 
-# What am I changing?
+## What am I changing?
 
 I'm working through Tom's "flip the switch" guidance in the book and trying to think about winning and losing trades differently. Throwing money into winning trades and pulling back quickly from losing trades still feels challenging but I'm hoping it becomes easier over time.
 

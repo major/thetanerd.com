@@ -9,5 +9,5 @@ unsafe = true
 noClasses = false
 
 [tableOfContents]
-startLevel = 1
+startLevel = 2
 endLevel = 4
