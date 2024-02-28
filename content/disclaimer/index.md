@@ -2,7 +2,8 @@
 title: Financial disclaimer
 date: 2024-02-28
 summary: >-
-    This is the post summary. 😉
+    Although I hope this blog helps lots of people, let's be clear that
+    nothing on this site should be considered financial advice
 coverAlt: Stop sign
 coverCaption: >-
   [John Matychuk](https://unsplash.com/photos/red-stop-sign-dJdcb11aboQ)
