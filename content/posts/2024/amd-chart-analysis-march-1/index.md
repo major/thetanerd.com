@@ -2,7 +2,7 @@
 title: AMD analysis for March 1st
 date: 2024-03-01
 summary: >-
-  It's time for a look at AMD's cart as it starts another run higher.
+  It's time for a look at AMD's chart as it starts another run higher.
 tags:
   - analysis
   - AMD
