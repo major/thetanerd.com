@@ -49,7 +49,7 @@ jobs:
         run: echo "machine storage.bunnycdn.com login thetanerd-com password ${{ secrets.BUNNY_FTP_PASSWORD }}" > ~/.netrc
 
       - name: Deploy blog
-        run: lftp -e "mirror --continue --verbose --parallel=25 --ignore-time --reverse --delete public/ ." storage.bunnycdn.com
+        run: lftp -e "mirror --parallel=5 --ignore-time --reverse public/ ." storage.bunnycdn.com
         continue-on-error: true
 
       - name: Purge BunnyCDN cache
