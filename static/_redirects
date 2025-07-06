@@ -1,0 +1,7 @@
+/feed           /index.xml
+/feed/          /index.xml
+/feed/atom/     /index.xml
+/feed/atom      /index.xml
+/feed/rss/      /index.xml
+/feed/rss       /index.xml
+/feed/index.xml /index.xml
