@@ -72,6 +72,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
+  ShowWordCount: true
   comments: false
 
   cover:

@@ -1,9 +1,10 @@
 ---
 date: '2025-07-06'
 title: Getting back to basics
-description: |
+description: &desc |
   Knowing more and more about the markets doesn't make you a better trader.
-  Sometimes the best results come from doing less.
+  Sometimes the best results come from doing less. 🤏
+summary: *desc
 tags: 
   - thoughts
 cover:
