@@ -12,7 +12,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts", "papermod"]
+mainsections: ["posts"]
 
 permalinks:
   posts: "/p/:contentbasename/"
@@ -44,6 +44,8 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
+        - name: RSS Feed
+          url: /index.xml
 
 outputs:
   home:
@@ -101,6 +103,9 @@ params:
     - name: email
       title: Send me an email
       url: "mailto:major@thetanerd.com"
+    - name: RSS
+      title: Subscribe to the RSS feed
+      url: "/index.xml"
 
   editPost:
     URL: "https://github.com/major/thetanerd.com/tree/content"
