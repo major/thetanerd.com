@@ -9,7 +9,8 @@ tags:
 cover:
   image: feature.jpg
   alt: White desk lamp and plant in front of a white wall with a clock
-  caption: Photo by <a href="https://unsplash.com/@srosinger3997?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Samantha Gades</a> on <a href="https://unsplash.com/photos/white-desk-lamp-beside-green-plant-BlIhVfXbi9s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>      
+  caption: |
+    Photo by <a href="https://unsplash.com/@srosinger3997?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Samantha Gades</a> on <a href="https://unsplash.com/photos/white-desk-lamp-beside-green-plant-BlIhVfXbi9s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>      
 ---
 
 # Starting out
