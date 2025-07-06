@@ -5,3 +5,6 @@
 /feed/rss/      /index.xml
 /feed/rss       /index.xml
 /feed/index.xml /index.xml
+
+/blog/rss/      /index.xml
+/blog/rss       /index.xml
