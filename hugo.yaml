@@ -1,9 +1,8 @@
 baseURL: "https://thetanerd.com/"
-title: Theta Nerd
+title: "Theta Nerd 🤓 📈"
 copyright: >
-  💙 [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
-  &raquo;
-  🛑 [Financial disclaimer](/disclaimer)
+  💙 [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en) by Major Hayden.
+  🛑 Read the [Financial disclaimer](/disclaimer)
 theme: [PaperMod]
 
 enableInlineShortcodes: true
@@ -81,7 +80,8 @@ params:
   homeInfoParams:
     Title: "Let's learn about the markets together."
     Content: |
-      👋 Welcome!
+      👋 **Welcome!**\
+      \
       This blog covers financial topics, including trading stocks and options, analyzing various charts, and managing risk.
       I'm constantly learning and sharing my experiences.
       I hope you find something useful here.
@@ -89,7 +89,9 @@ params:
       > ⚠️ **Notice: None of the content on this site is financial advice!**\
       > &nbsp; &nbsp; &nbsp; Please review the [financial disclaimer](/disclaimer) before proceeding.
 
-      I wish you the best in your trading journey! 🍀
+      I wish you the best in your trading journey! 🍀\
+      \
+      _If you're looking for my nerdy blog on Linux, DevOps, and other tech topics, you can find it at [major.io](https://major.io)._
       
 
   socialIcons:
