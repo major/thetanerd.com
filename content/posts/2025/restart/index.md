@@ -1,7 +1,7 @@
 ---
 date: '2025-07-06'
 title: Getting back to basics
-description: &desc |
+description: &desc >
   Knowing more and more about the markets doesn't make you a better trader.
   Sometimes the best results come from doing less. 🤏
 summary: *desc
@@ -10,6 +10,7 @@ tags:
 cover:
   image: feature.jpg
   alt: White desk lamp and plant in front of a white wall with a clock
+  relative: true
   caption: |
     Photo by <a href="https://unsplash.com/@srosinger3997?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Samantha Gades</a> on <a href="https://unsplash.com/photos/white-desk-lamp-beside-green-plant-BlIhVfXbi9s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>      
 ---
