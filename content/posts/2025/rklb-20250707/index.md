@@ -2,7 +2,7 @@
 date: '2025-07-07'
 title: "Chart of the Day: RKLB"
 description: &desc >
-  RKLB has a chance to break out of a brief consolidation as it revisits the #1 most traded level.
+  RKLB has a chance to break out of a brief consolidation as it revisits the #1 most traded level. 🚀
 summary: *desc
 tags: 
   - RKLB
