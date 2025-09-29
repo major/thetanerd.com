@@ -67,4 +67,4 @@ jobs:
             --region us-east-1 \
             --bucket thetanerd.com \
             --source public \
-            --distribution-id E2CVUP8JO07HJ2
+            --distribution-id E2Y0LGJDX445NP
