@@ -1,6 +1,6 @@
 ---
 title: "Stage 3: Topping"
-date: 2025-10-22T16:09:08.133364
+date: 2025-10-22T16:13:02.042260
 description: "Stocks showing distribution and potential trend exhaustion"
 draft: false
 ---
@@ -10,7 +10,7 @@ draft: false
 Stocks showing distribution and potential trend exhaustion.
 
 **Count:** 685 stocks
-**Updated:** 2025-10-22 16:09:08
+**Updated:** 2025-10-22 16:13:02
 
 ## Summary
 

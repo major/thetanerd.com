@@ -1,6 +1,6 @@
 ---
 title: "Stage 4: Declining"
-date: 2025-10-22T16:09:08.553625
+date: 2025-10-22T16:13:02.459403
 description: "Stocks in confirmed downtrends with falling moving averages"
 draft: false
 ---
@@ -10,7 +10,7 @@ draft: false
 Stocks in confirmed downtrends with falling moving averages.
 
 **Count:** 1428 stocks
-**Updated:** 2025-10-22 16:09:08
+**Updated:** 2025-10-22 16:13:02
 
 ## Summary
 

@@ -1,6 +1,6 @@
 ---
 title: "Weekly High Volume Closes (Last 2 Years)"
-date: 2025-10-22T16:09:08.598336
+date: 2025-10-22T16:13:02.505854
 description: "Stocks with weekly high volume closes (3x+ average) from the past 2 years"
 draft: false
 ---
@@ -11,7 +11,7 @@ Stocks with weekly high volume closes (3x+ average) from the past 2 years.
 
 **Count:** 13863 occurrences
 **Date Range:** 2023-10-23 to 2025-10-22
-**Updated:** 2025-10-22 16:09:08
+**Updated:** 2025-10-22 16:13:02
 
 ## 2025 (6057 HVCs)
 

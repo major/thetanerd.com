@@ -1,6 +1,6 @@
 ---
 title: "Stage 2: Advancing"
-date: 2025-10-22T16:09:07.713485
+date: 2025-10-22T16:13:01.621761
 description: "Stocks in confirmed uptrends with rising moving averages"
 draft: false
 ---
@@ -10,7 +10,7 @@ draft: false
 Stocks in confirmed uptrends with rising moving averages.
 
 **Count:** 2193 stocks
-**Updated:** 2025-10-22 16:09:07
+**Updated:** 2025-10-22 16:13:01
 
 ## Summary
 

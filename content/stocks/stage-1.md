@@ -1,6 +1,6 @@
 ---
 title: "Stage 1: Basing"
-date: 2025-10-22T16:09:07.299098
+date: 2025-10-22T16:13:01.189497
 description: "Stocks building bases and consolidating before potential breakouts"
 draft: false
 ---
@@ -10,7 +10,7 @@ draft: false
 Stocks building bases and consolidating before potential breakouts.
 
 **Count:** 517 stocks
-**Updated:** 2025-10-22 16:09:07
+**Updated:** 2025-10-22 16:13:01
 
 ## Summary
 
