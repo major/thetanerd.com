@@ -1,7 +1,6 @@
 ---
 title: "Expense Ratios"
 description: "What you're really paying for ETFs — daily deductions, hidden costs, and how fees compound over decades"
-weight: 0
 ---
 
 Expense ratios are the most visible cost of owning an ETF, but they're often misunderstood. This page covers the mechanics of how fees work — from the daily deduction you never see to the hidden costs that don't show up in the expense ratio at all. Whether you're new to ETFs or an experienced trader optimizing your portfolio, understanding the full cost picture is essential.

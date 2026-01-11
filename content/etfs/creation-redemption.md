@@ -1,7 +1,6 @@
 ---
 title: "Creation & Redemption"
 description: "How ETF shares are created and destroyed — the Authorized Participant mechanism that keeps prices aligned with value"
-weight: 10
 ---
 
 If you've traded ETFs, you've probably wondered: when I buy $10,000 of SPY, does someone actually go purchase all 500 stocks in the S&P 500? And when I sell, does someone sell them?

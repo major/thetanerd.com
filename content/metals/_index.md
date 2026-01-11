@@ -1,6 +1,5 @@
 ---
 title: "Metals"
-weight: 2
 sidebar:
   open: true
 ---

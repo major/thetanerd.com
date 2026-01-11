@@ -1,6 +1,5 @@
 ---
 title: "ETFs"
-weight: 3
 sidebar:
   open: true
 ---

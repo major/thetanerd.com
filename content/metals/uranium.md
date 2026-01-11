@@ -1,7 +1,6 @@
 ---
 title: "Uranium"
 description: "How uranium markets move — nuclear renaissance drivers, ETF relationships, relative charts, and timing signals for traders"
-weight: 3
 ---
 
 Uranium is the **energy metal** — the fuel behind nuclear power plants that provide ~10% of global electricity. Unlike copper or silver, uranium isn't traded on futures exchanges accessible to retail investors. Instead, traders access this market through a complex ecosystem of miners, physical trusts, and nuclear-exposed ETFs. Understanding how these instruments relate to each other gives traders an edge in timing the nuclear renaissance trade.

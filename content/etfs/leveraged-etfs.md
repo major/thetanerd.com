@@ -1,7 +1,6 @@
 ---
 title: "Leveraged ETFs"
 description: "How leveraged ETFs work, why they decay, and what happens when you hold them for days, months, or years"
-weight: 20
 ---
 
 Leveraged ETFs promise 2x or 3x the daily return of an index. They deliver on that promise — but only for a single day. Hold them longer, and the math gets complicated. This page explains the mechanics, the advantages, the drawbacks, and what actually happens over different holding periods.
