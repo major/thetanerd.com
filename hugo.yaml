@@ -21,7 +21,8 @@ markup:
 
 # Site parameters
 params:
-  description: "Documentation for trading stocks and options in financial markets"
+  description: |
+    Learn about trading stocks, ETFs, and options in financial markets
 
   navbar:
     displayTitle: true
@@ -29,10 +30,10 @@ params:
 
   footer:
     displayCopyright: true
-    displayPoweredBy: false
 
   editURL:
-    enable: false
+    enable: true
+    base: "https://github.com/major/thetanerd.com/edit/main/content"
 
   # Search
   search:
@@ -44,6 +45,12 @@ params:
 
   displayUpdatedDate: true
   dateFormat: "2006-01-02"
+  externalLinkDecoration: true
+
+  banner:
+    key: "wip-20260111"
+    message: |
+      🚧 This site is still a work in progress!
 
 menu:
   main:
