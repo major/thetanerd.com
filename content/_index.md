@@ -15,6 +15,6 @@ I hope to write some brief reviews, and maybe evem some summaries of the importa
 
 [Goodreads trading bookshelf]: https://www.goodreads.com/review/list/49133137?shelf=trading
 
-Send your questions and comments my way at [via email](mailto:major@mhtx.net) or find me on [Discord].
+Send your questions and comments my way [via email](mailto:major@mhtx.net) or find me on [Discord].
 
 [Discord]: https://discord.com/users/559804419261071363
