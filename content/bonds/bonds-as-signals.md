@@ -1,6 +1,7 @@
 ---
-title: "Bonds as Market Signals"
+title: "Bond Market Signals"
 description: "How treasury ETF movements and relative charts reveal hidden risk-on/off shifts before they show up in equities"
+weight: 1
 ---
 
 The bond market is often called the "smart money" market — and for good reason. Bonds are dominated by institutional investors, pension funds, and central banks who move billions based on economic fundamentals. When equity traders are still debating whether the rally is real, bond markets have often already voted.
