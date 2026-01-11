@@ -12,4 +12,5 @@ Understanding how energy markets move is essential for traders watching oil, nat
   {{< card link="exploration-production" title="Exploration & Production" subtitle="E&P companies — high-beta oil exposure and breakeven economics" >}}
   {{< card link="oil-services" title="Oil Services" subtitle="Drillers and equipment — capex cycles and utilization dynamics" >}}
   {{< card link="mlps-midstream" title="MLPs & Midstream" subtitle="Pipelines and infrastructure — yield plays and fee-based models" >}}
+  {{< card link="clean-energy" title="Clean Energy" subtitle="Solar, wind, and renewables — ICLN, TAN, QCLN, and the energy transition" >}}
 {{< /cards >}}

@@ -375,9 +375,9 @@ flowchart TD
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="Regulatory guidance" %}}
+{{% details title="Regulatory guidance" closed="true" %}}
 
 - **SEC**: "[Updated Investor Bulletin: Leveraged and Inverse ETFs](https://www.sec.gov/resources-for-investors/investor-alerts-bulletins/updated-investor-bulletin-leveraged-inverse-etfs)" (August 29, 2023) — primary SEC guidance on leveraged ETF risks
 
@@ -387,7 +387,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="ETF provider documentation" %}}
+{{% details title="ETF provider documentation" closed="true" %}}
 
 - **ProShares**: "[About Geared Funds FAQs](https://www.proshares.com/resources/geared-faqs)" — issuer explanation of compounding effects
 
@@ -397,7 +397,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Academic research" %}}
+{{% details title="Academic research" closed="true" %}}
 
 - **Wang, Baolian**: "[Multi-day Return Properties of Leveraged Index ETFs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5119860)" (January 31, 2025) — recent research on holding period effects
 
@@ -411,7 +411,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Performance data" %}}
+{{% details title="Performance data" closed="true" %}}
 
 - **StatMuse Money**: "[TQQQ vs QQQ Last 10 Years](https://www.statmuse.com/money/ask/tqqq-vs-qqq-last-10-years)" (September 9, 2025) — long-term performance comparison
 

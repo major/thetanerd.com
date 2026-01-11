@@ -290,9 +290,9 @@ Everything else is refinement.
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="Bond market structure and institutional participation" %}}
+{{% details title="Bond market structure and institutional participation" closed="true" %}}
 
 - **Institutional dominance**: SIFMA, "[2024 Capital Markets Fact Book](https://www.sifma.org/resources/research/fact-book/)". Documents that institutional investors (pension funds, insurance companies, mutual funds, foreign entities) hold the vast majority of US Treasury securities.
 
@@ -302,7 +302,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Duration and interest rate sensitivity" %}}
+{{% details title="Duration and interest rate sensitivity" closed="true" %}}
 
 - **Duration definition**: CFA Institute, "[Fixed Income Analysis](https://www.cfainstitute.org/en/programs/cfa/curriculum)" (CFA Program Curriculum). Duration measures price sensitivity to yield changes — a 1% rate increase causes approximately a [duration]% price decline.
 
@@ -310,7 +310,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Yield curve as recession predictor" %}}
+{{% details title="Yield curve as recession predictor" closed="true" %}}
 
 - **Predictive power since 1970s**: Federal Reserve Bank of San Francisco, "[The Yield Curve as a Leading Indicator](https://www.frbsf.org/research-and-insights/publications/economic-letter/2018/03/economic-forecasts-with-yield-curve/)" (March 2018). Documents that yield curve inversions have preceded every US recession since the late 1960s.
 
@@ -320,7 +320,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Stock-bond correlation and 2022 regime" %}}
+{{% details title="Stock-bond correlation and 2022 regime" closed="true" %}}
 
 - **2022 correlation breakdown**: PIMCO, "[Stock-Bond Correlation: What It Means for Investors](https://www.pimco.com/en-us/insights/investment-strategies/featured-solutions/stock-bond-correlation-what-it-means-for-investors)" (2023). Analysis of how inflation-driven environments cause stocks and bonds to fall together.
 
@@ -330,7 +330,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Credit spreads as leading indicators" %}}
+{{% details title="Credit spreads as leading indicators" closed="true" %}}
 
 - **High-yield spreads and recessions**: Federal Reserve Bank of St. Louis, "[High-Yield Bond Spreads and the Business Cycle](https://www.stlouisfed.org/publications/regional-economist/2019/third-quarter-2019/high-yield-bonds-recessions)". Documents how credit spreads widen before economic downturns.
 
@@ -340,7 +340,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="ETF information" %}}
+{{% details title="ETF information" closed="true" %}}
 
 For complete ETF details (expense ratios, durations, alternatives), see [Treasury & TIPS ETFs]({{< ref "treasury-etfs" >}}) and [Corporate Bond ETFs]({{< ref "corporate-bond-etfs" >}}).
 
@@ -350,7 +350,7 @@ Key ETFs referenced on this page:
 
 {{% /details %}}
 
-{{% details title="Bull vs. bear steepening" %}}
+{{% details title="Bull vs. bear steepening" closed="true" %}}
 
 - **Curve dynamics**: Federal Reserve Bank of Cleveland, "[Yield Curve and Predicted GDP Growth](https://www.clevelandfed.org/indicators-and-data/yield-curve-and-predicted-gdp-growth)". Explains different steepening mechanisms and their economic implications.
 

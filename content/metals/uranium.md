@@ -309,9 +309,9 @@ This is the **critical ratio** for understanding uranium sentiment:
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="Supply & demand fundamentals" %}}
+{{% details title="Supply & demand fundamentals" closed="true" %}}
 
 - **Kazakhstan production cuts**: World Nuclear Association, "[Uranium Mining & Production](https://world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production)". Kazakhstan (Kazatomprom) announced 17% production cuts in 2024 with further reductions planned.
 
@@ -325,7 +325,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="ETF information" %}}
+{{% details title="ETF information" closed="true" %}}
 
 - **URA**: [Global X ETFs](https://www.globalxetfs.com/funds/ura/) — ~$6.5B AUM, 49 holdings, 0.69% expense ratio. Tracks Solactive Global Uranium & Nuclear Components Index.
 
@@ -339,7 +339,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Holdings & overlap data" %}}
+{{% details title="Holdings & overlap data" closed="true" %}}
 
 - **ETF overlap analysis**: ETF Research Center, "[URA vs NLR Overlap](https://www.etfrc.com/funds/overlap.php?f1=URA&f2=NLR)" and "[URA vs URNM Comparison](https://etfdb.com/tool/etf-comparison/URA-URNM/)".
 
@@ -349,7 +349,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Industry data" %}}
+{{% details title="Industry data" closed="true" %}}
 
 - **World Nuclear Association**: [world-nuclear.org](https://world-nuclear.org/) — comprehensive data on global reactor fleet, uranium production, and industry outlook.
 

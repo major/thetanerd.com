@@ -129,9 +129,9 @@ Most broad muni ETFs (MUB, VTEB) focus on investment-grade bonds. HYD specifical
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="Municipal bond fundamentals" %}}
+{{% details title="Municipal bond fundamentals" closed="true" %}}
 
 - **Municipal bond tax treatment**: IRS, "[Tax-Exempt Interest](https://www.irs.gov/publications/p550)". Explains federal tax exemption for municipal bond interest.
 
@@ -139,7 +139,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="ETF information" %}}
+{{% details title="ETF information" closed="true" %}}
 
 - **MUB**: [iShares](https://www.ishares.com/us/products/239766/ishares-national-muni-bond-etf) — 0.07% expense ratio.
 

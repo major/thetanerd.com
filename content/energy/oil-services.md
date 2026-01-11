@@ -177,7 +177,7 @@ For detailed signal interpretation, see [Energy Market Signals]({{< ref "energy-
 
 ## Sources
 
-{{% details title="Rig counts and capex" %}}
+{{% details title="Rig counts and capex" closed="true" %}}
 
 - **Baker Hughes rig count**: [Baker Hughes](https://rigcount.bakerhughes.com/) — weekly drilling activity.
 
@@ -185,7 +185,7 @@ For detailed signal interpretation, see [Energy Market Signals]({{< ref "energy-
 
 {{% /details %}}
 
-{{% details title="Day rates" %}}
+{{% details title="Day rates" closed="true" %}}
 
 - **Offshore rates**: BCG, "[Real Cost Advantage in Oil & Gas](https://www.bcg.com/publications/2025/real-cost-advantage-oil-gas)" (2025).
 
@@ -193,7 +193,7 @@ For detailed signal interpretation, see [Energy Market Signals]({{< ref "energy-
 
 {{% /details %}}
 
-{{% details title="ETF information" %}}
+{{% details title="ETF information" closed="true" %}}
 
 - **OIH**: [VanEck](https://www.vaneck.com/us/en/investments/oil-services-etf-oih/)
 - **XES**: [State Street](https://www.ssga.com/us/en/individual/etfs/spdr-sp-oil-gas-equipment-services-etf-xes)

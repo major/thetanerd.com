@@ -102,9 +102,9 @@ Watch Fed balance sheet announcements for MBS policy changes. The Fed owns trill
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="MBS fundamentals" %}}
+{{% details title="MBS fundamentals" closed="true" %}}
 
 - **Negative convexity**: CFA Institute, "[Fixed Income Analysis](https://www.cfainstitute.org/en/programs/cfa/curriculum)". Explanation of prepayment risk and asymmetric price behavior.
 
@@ -114,7 +114,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="ETF information" %}}
+{{% details title="ETF information" closed="true" %}}
 
 - **MBB**: [iShares](https://www.ishares.com/us/products/239465/ishares-mbs-etf) — 0.04% expense ratio, ~5.9 year duration.
 

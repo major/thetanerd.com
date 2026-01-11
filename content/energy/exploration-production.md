@@ -151,7 +151,7 @@ For detailed signal interpretation, see [Energy Market Signals]({{< ref "energy-
 
 ## Sources
 
-{{% details title="Breakeven costs and economics" %}}
+{{% details title="Breakeven costs and economics" closed="true" %}}
 
 - **Dallas Fed Energy Survey**: Federal Reserve Bank of Dallas, "[Dallas Fed Energy Survey](https://www.dallasfed.org/research/surveys/des/2025/2501)" (Q1 2025).
 
@@ -159,7 +159,7 @@ For detailed signal interpretation, see [Energy Market Signals]({{< ref "energy-
 
 {{% /details %}}
 
-{{% details title="Rig counts and drilling activity" %}}
+{{% details title="Rig counts and drilling activity" closed="true" %}}
 
 - **Baker Hughes rig count**: [Baker Hughes](https://rigcount.bakerhughes.com/) — weekly drilling activity data.
 
@@ -167,7 +167,7 @@ For detailed signal interpretation, see [Energy Market Signals]({{< ref "energy-
 
 {{% /details %}}
 
-{{% details title="ETF information" %}}
+{{% details title="ETF information" closed="true" %}}
 
 - **XOP**: [State Street](https://www.ssga.com/us/en/individual/etfs/spdr-sp-oil-gas-exploration-production-etf-xop)
 - **IEO**: [iShares](https://www.ishares.com/us/products/239509/ishares-us-oil-gas-exploration-production-etf)

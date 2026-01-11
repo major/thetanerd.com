@@ -284,9 +284,9 @@ The gold/silver ratio (gold price ÷ silver price) is one of the most useful sig
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="Supply & demand fundamentals" %}}
+{{% details title="Supply & demand fundamentals" closed="true" %}}
 
 - **Industrial vs. investment demand**: The Silver Institute, "[World Silver Survey](https://www.silverinstitute.org/silver-supply-demand/)" (annual). Industrial fabrication ~50% of total demand.
 
@@ -300,7 +300,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Historical price data" %}}
+{{% details title="Historical price data" closed="true" %}}
 
 - **Gold/silver ratio history**: Historical data shows ratio ranged from ~15:1 (19th century fixed ratio) to 125:1 (March 2020 COVID panic).
 
@@ -310,7 +310,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="ETF information" %}}
+{{% details title="ETF information" closed="true" %}}
 
 - **SLV**: [iShares](https://www.ishares.com/us/products/239855/ishares-silver-trust) — largest silver ETF, holds physical silver in London vaults
 - **PSLV**: [Sprott](https://sprott.com/investment-strategies/physical-bullion-trusts/silver/) — physically-backed trust with allocated silver
@@ -321,7 +321,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Industry data" %}}
+{{% details title="Industry data" closed="true" %}}
 
 - **Silver Institute**: [silverinstitute.org](https://www.silverinstitute.org/) — publishes annual World Silver Survey and demand studies
 - **USGS**: [Mineral Commodity Summaries](https://pubs.usgs.gov/periodicals/mcs2025/) — annual production and reserve data

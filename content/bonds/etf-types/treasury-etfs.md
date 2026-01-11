@@ -129,9 +129,9 @@ The **TIP/TLT** ratio tracks this relationship in real-time.
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="Treasury market fundamentals" %}}
+{{% details title="Treasury market fundamentals" closed="true" %}}
 
 - **Risk-free benchmark**: US Treasury Department, "[Treasury Marketable Debt Outstanding](https://home.treasury.gov/policy-issues/financing-the-government/quarterly-refunding/treasury-marketable-debt-outstanding)". Treasury market is the deepest, most liquid sovereign debt market globally.
 
@@ -139,7 +139,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Treasury ETF information" %}}
+{{% details title="Treasury ETF information" closed="true" %}}
 
 - **SHY**: [iShares](https://www.ishares.com/us/products/239452/ishares-13-year-treasury-bond-etf) — 0.15% expense ratio, ~1.9 year duration.
 
@@ -157,7 +157,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="TIPS ETF information" %}}
+{{% details title="TIPS ETF information" closed="true" %}}
 
 - **TIP**: [iShares](https://www.ishares.com/us/products/239467/ishares-tips-bond-etf) — 0.19% expense ratio, ~6.7 year duration.
 

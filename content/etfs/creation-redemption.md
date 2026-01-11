@@ -257,9 +257,9 @@ flowchart LR
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="Regulatory sources" %}}
+{{% details title="Regulatory sources" closed="true" %}}
 
 - **SEC Rule 6c-11**: [17 CFR § 270.6c-11 - Exchange-traded funds](https://www.law.cornell.edu/cfr/text/17/270.6c-11) — the regulatory framework codifying ETF structure, including definitions of Authorized Participants, creation units, and baskets
 
@@ -267,7 +267,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="ETF sponsor documentation" %}}
+{{% details title="ETF sponsor documentation" closed="true" %}}
 
 - **State Street Global Advisors**: "[How ETFs Are Created and Redeemed](https://www.ssga.com/us/en/individual/etfs/resources/education/how-etfs-are-created-and-redeemed)" — comprehensive overview of the AP mechanism from the sponsor of SPY
 
@@ -277,7 +277,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Industry research" %}}
+{{% details title="Industry research" closed="true" %}}
 
 - **Investment Company Institute (ICI)**: "[A Close Look at Exchange-Traded Funds and Their Investors](https://www.ici.org/publication/a-close-look-at-exchangetraded-funds-and-their-investors-pdf)" (September 2025) — comprehensive analysis of ETF mechanics and investor behavior
 

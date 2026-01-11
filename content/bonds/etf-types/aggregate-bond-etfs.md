@@ -130,9 +130,9 @@ For a truly diversified bond portfolio, many advisors recommend 70-80% US (BND) 
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="Aggregate index composition" %}}
+{{% details title="Aggregate index composition" closed="true" %}}
 
 - **Bloomberg US Aggregate composition**: Bloomberg, "[Bloomberg US Aggregate Bond Index](https://www.bloomberg.com/professional/product/indices/bloomberg-fixed-income-indices/)". Documents index composition and methodology.
 
@@ -140,7 +140,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="ETF information" %}}
+{{% details title="ETF information" closed="true" %}}
 
 - **AGG**: [iShares](https://www.ishares.com/us/products/239458/ishares-core-us-aggregate-bond-etf) — 0.03% expense ratio.
 

@@ -164,9 +164,9 @@ Floating rate bonds have coupons that adjust with short-term interest rates. **S
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="Credit ratings and definitions" %}}
+{{% details title="Credit ratings and definitions" closed="true" %}}
 
 - **Investment-grade definition**: S&P Global Ratings, "[Understanding Ratings](https://www.spglobal.com/ratings/en/about/understanding-credit-ratings)". BBB- and above considered investment-grade.
 
@@ -176,7 +176,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Investment-grade ETF information" %}}
+{{% details title="Investment-grade ETF information" closed="true" %}}
 
 - **LQD**: [iShares](https://www.ishares.com/us/products/239566/ishares-iboxx-investment-grade-corporate-bond-etf) — 0.14% expense ratio, ~8.4 year duration.
 
@@ -188,7 +188,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="High-yield ETF information" %}}
+{{% details title="High-yield ETF information" closed="true" %}}
 
 - **HYG**: [iShares](https://www.ishares.com/us/products/239565/ishares-iboxx-high-yield-corporate-bond-etf) — 0.49% expense ratio, ~3.8 year duration.
 
@@ -202,7 +202,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Floating rate and senior loan ETF information" %}}
+{{% details title="Floating rate and senior loan ETF information" closed="true" %}}
 
 - **FLOT**: [iShares](https://www.ishares.com/us/products/239534/ishares-floating-rate-bond-etf) — 0.15% expense ratio.
 

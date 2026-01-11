@@ -333,9 +333,9 @@ Two ETFs with identical expense ratios can have very different total costs:
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="Regulatory and industry research" %}}
+{{% details title="Regulatory and industry research" closed="true" %}}
 
 - **SEC Form N-1A**: [SEC.gov](https://www.sec.gov/files/formn-1a.pdf) — standardized fund disclosure requirements
 
@@ -345,7 +345,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Fund company documentation" %}}
+{{% details title="Fund company documentation" closed="true" %}}
 
 - **Vanguard**: "[How Low ETF Fees Benefit Investors Over Time](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/how-low-etf-fees-benefit-investors-over-time.html)" (July 2025) — break-even analysis
 
@@ -359,7 +359,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Academic research" %}}
+{{% details title="Academic research" closed="true" %}}
 
 - **William Sharpe**: "[The Arithmetic of Investment Expenses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2241716)" (2013) — long-term impact of fees on retirement wealth
 
@@ -369,7 +369,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Industry data and news" %}}
+{{% details title="Industry data and news" closed="true" %}}
 
 - **YCharts**: "[Largest Leveraged and Inverse ETFs](https://get.ycharts.com/resources/blog/largest-leveraged-and-inverse-etfs/)" (November 2025) — leveraged ETF expense data
 

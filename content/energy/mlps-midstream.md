@@ -190,7 +190,7 @@ When AMLP rises while oil falls, it's a **positive divergence**:
 
 ## Sources
 
-{{% details title="Distribution yields and coverage" %}}
+{{% details title="Distribution yields and coverage" closed="true" %}}
 
 - **Alerian MLP Index yields**: ALPS Funds, "[Alerian MLP ETF Insights](https://www.alpsfunds.com/hubfs/alps-docs/lit/insight/alerian-mlp-etf-amlp-insights-20251031.pdf)" (October 2025).
 
@@ -198,7 +198,7 @@ When AMLP rises while oil falls, it's a **positive divergence**:
 
 {{% /details %}}
 
-{{% details title="Natural gas and LNG" %}}
+{{% details title="Natural gas and LNG" closed="true" %}}
 
 - **LNG exports**: Reuters, "[US sets new LNG export records](https://www.reuters.com/business/energy/us-sets-new-lng-export-records-banner-year-marked-by-new-capacity-2026-01-02/)" (January 2026).
 
@@ -206,7 +206,7 @@ When AMLP rises while oil falls, it's a **positive divergence**:
 
 {{% /details %}}
 
-{{% details title="ETF information" %}}
+{{% details title="ETF information" closed="true" %}}
 
 - **AMLP**: [ALPS Funds](https://www.alpsfunds.com/funds/amlp)
 - **MLPA**: [Global X](https://www.globalxetfs.com/funds/mlpa/)

@@ -325,7 +325,7 @@ Each energy segment has unique mechanics worth understanding:
 
 The signals and data sources referenced in this article:
 
-{{% details title="Relative strength methodology" %}}
+{{% details title="Relative strength methodology" closed="true" %}}
 
 - **Ratio analysis**: Standard relative strength methodology comparing ETF price series. Rising ratio = numerator outperforming denominator.
 
@@ -333,7 +333,7 @@ The signals and data sources referenced in this article:
 
 {{% /details %}}
 
-{{% details title="Fundamental data sources" %}}
+{{% details title="Fundamental data sources" closed="true" %}}
 
 - **Baker Hughes Rig Count**: [Baker Hughes](https://rigcount.bakerhughes.com/) — Weekly Friday release, primary drilling activity indicator.
 
@@ -345,7 +345,7 @@ The signals and data sources referenced in this article:
 
 {{% /details %}}
 
-{{% details title="ETF information" %}}
+{{% details title="ETF information" closed="true" %}}
 
 - **USO**: [United States Commodity Funds](https://www.uscfinvestments.com/uso) — WTI front-month futures
 - **XOP**: [State Street](https://www.ssga.com/us/en/individual/etfs/spdr-sp-oil-gas-exploration-production-etf-xop) — S&P Oil & Gas E&P Index

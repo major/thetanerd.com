@@ -353,9 +353,9 @@ This is the **critical ratio** for understanding gold conviction:
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="Supply & demand fundamentals" %}}
+{{% details title="Supply & demand fundamentals" closed="true" %}}
 
 - **Global mine production**: USGS Mineral Commodity Summaries 2025, "[Gold](https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-gold.pdf)". Annual production ~3,300-3,600 tonnes.
 
@@ -367,7 +367,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Real rates relationship" %}}
+{{% details title="Real rates relationship" closed="true" %}}
 
 - **Historical correlation**: State Street Global Advisors, "[US Real Rates Still Matter for Gold](https://www.ssga.com/library-content/assets/pdf/apac/gold/2025/en/us-real-rates-still-matter-for-gold.pdf)" (March 2025). Documents the historical inverse relationship and recent decoupling.
 
@@ -379,7 +379,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Physical gold ETF information" %}}
+{{% details title="Physical gold ETF information" closed="true" %}}
 
 - **GLD**: [State Street Global Advisors](https://www.ssga.com/us/en/intermediary/etfs/spdr-gold-shares-gld) — 0.40% expense ratio, largest gold ETF (~$140B AUM).
 
@@ -395,7 +395,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Gold miner ETF information" %}}
+{{% details title="Gold miner ETF information" closed="true" %}}
 
 - **GDX**: [VanEck](https://www.vaneck.com/us/en/investments/gold-miners-etf-gdx/) — 0.51% expense ratio, tracks NYSE Arca Gold Miners Index.
 
@@ -407,7 +407,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Leveraged & inverse ETF information" %}}
+{{% details title="Leveraged & inverse ETF information" closed="true" %}}
 
 - **UGL/GLL**: [ProShares](https://www.proshares.com/strategies/Gold) — 2x and -2x gold futures exposure, 0.95% expense ratio.
 
@@ -417,7 +417,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Industry data" %}}
+{{% details title="Industry data" closed="true" %}}
 
 - **World Gold Council**: [gold.org/goldhub](https://www.gold.org/goldhub) — comprehensive supply/demand data, ETF flows, central bank reserves.
 

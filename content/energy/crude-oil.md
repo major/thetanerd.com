@@ -174,7 +174,7 @@ Most oil ETFs issue K-1 forms (partnership income), which can create complicatio
 
 ## Sources
 
-{{% details title="Futures curve and roll yield dynamics" %}}
+{{% details title="Futures curve and roll yield dynamics" closed="true" %}}
 
 - **Contango and backwardation**: CME Group, "[Understanding Crude Oil Futures](https://www.cmegroup.com/education/courses/introduction-to-crude-oil.html)".
 
@@ -184,7 +184,7 @@ Most oil ETFs issue K-1 forms (partnership income), which can create complicatio
 
 {{% /details %}}
 
-{{% details title="ETF information" %}}
+{{% details title="ETF information" closed="true" %}}
 
 - **USO**: [United States Commodity Funds](https://www.uscfinvestments.com/uso)
 - **BNO**: [United States Commodity Funds](https://www.uscfinvestments.com/bno)

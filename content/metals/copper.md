@@ -232,9 +232,9 @@ This is the **critical ratio** for understanding the cycle:
 
 ## Sources
 
-The claims in this article are backed by the following sources:
+Learn more about the contents of this page by reviewing these sources:
 
-{{% details title="Supply & demand fundamentals" %}}
+{{% details title="Supply & demand fundamentals" closed="true" %}}
 
 - **Mine development timelines**: S&P Global Market Intelligence, "[Discovery to production averages 15.7 years for 127 mines](https://www.spglobal.com/market-intelligence/en/news-insights/research/discovery-to-production-averages-15-7-years-for-127-mines)" (June 2023). Copper-specific average: 16.7 years.
 
@@ -248,7 +248,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Electrification & energy transition" %}}
+{{% details title="Electrification & energy transition" closed="true" %}}
 
 - **EV copper content**: International Copper Association, "[E-Mobility Factsheet](https://internationalcopper.org/wp-content/uploads/2017/06/2017.06-E-Mobility-Factsheet-1.pdf)" (2017). Battery EVs use ~83kg copper vs ~23kg for ICE vehicles (3.6x more).
 
@@ -258,7 +258,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="ETF information" %}}
+{{% details title="ETF information" closed="true" %}}
 
 - **CPER**: [United States Commodity Funds](https://www.uscfinvestments.com/cper) — tracks copper futures via SummerHaven Copper Index
 - **COPX**: [Global X ETFs](https://www.globalxetfs.com/funds/copx/) — tracks Solactive Global Copper Miners Index
@@ -269,7 +269,7 @@ The claims in this article are backed by the following sources:
 
 {{% /details %}}
 
-{{% details title="Industry data" %}}
+{{% details title="Industry data" closed="true" %}}
 
 - **ICSG**: [International Copper Study Group](https://icsg.org/) — publishes monthly copper bulletins and market forecasts
 - **USGS**: [Mineral Commodity Summaries](https://pubs.usgs.gov/periodicals/mcs2025/) — annual production and reserve data
