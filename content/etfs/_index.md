@@ -10,4 +10,5 @@ Exchange-Traded Funds (ETFs) have revolutionized investing since their introduct
 {{< cards >}}
   {{< card link="creation-redemption" title="Creation & Redemption" subtitle="How ETF shares are created and destroyed — the Authorized Participant mechanism" >}}
   {{< card link="expense-ratios" title="Expense Ratios" subtitle="What you're really paying — daily deductions, hidden costs, and how fees compound over time" >}}
+  {{< card link="leveraged-etfs" title="Leveraged ETFs" subtitle="How they work, why they decay, and what happens over different holding periods" >}}
 {{< /cards >}}
