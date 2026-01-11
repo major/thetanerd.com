@@ -238,9 +238,21 @@ Most ETFs publish an intraday indicative NAV (iNAV) that updates every 15 second
 
 ### The arbitrage loop
 
-```
-Premium detected → AP creates shares → Supply increases → Price falls → Premium shrinks
-Discount detected → AP redeems shares → Supply decreases → Price rises → Discount shrinks
+```mermaid
+flowchart LR
+    subgraph Premium["**Premium Detected**"]
+        A1[ETF price > NAV] --> A2[AP creates shares]
+        A2 --> A3[Supply increases]
+        A3 --> A4[Price falls]
+        A4 --> A5[Premium shrinks]
+    end
+    
+    subgraph Discount["**Discount Detected**"]
+        B1[ETF price < NAV] --> B2[AP redeems shares]
+        B2 --> B3[Supply decreases]
+        B3 --> B4[Price rises]
+        B4 --> B5[Discount shrinks]
+    end
 ```
 
 ## Sources

@@ -121,6 +121,16 @@ Gold's ETF landscape creates **meaningful relative value signals**. Understandin
 
 ### The ETF Hierarchy: Physical → Miners → Juniors
 
+```mermaid
+flowchart TD
+    A[**Physical Gold**<br/>GLD, IAU, GLDM] --> B[**Senior Miners**<br/>GDX]
+    B --> C[**Junior Miners**<br/>GDXJ]
+    
+    A -.- D[Lowest volatility<br/>Institutional benchmark]
+    B -.- E[1.5-2.5x gold moves<br/>Dividends possible]
+    C -.- F[2-3x GDX volatility<br/>Maximum beta]
+```
+
 #### GLD/IAU/GLDM — Pure Physical Exposure
 - Track spot gold price directly
 - Lowest volatility within gold complex

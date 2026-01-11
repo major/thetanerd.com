@@ -19,14 +19,16 @@ Understanding downstream spending helps you:
 
 ## The downstream value chain
 
-```
-Semiconductors (SMH, SOXX)
-    ↓
-Data Center Infrastructure (DTCR) — The buildings and power
-    ↓
-Cloud Computing (CLOU) — The software platforms
-    ↓
-AI/Robotics Applications (BOTZ, ROBO) — The end use cases
+```mermaid
+flowchart TD
+    A[**Semiconductors**<br/>SMH, SOXX] --> B[**Data Center Infrastructure**<br/>DTCR]
+    B --> C[**Cloud Computing**<br/>CLOU, WCLD]
+    C --> D[**AI/Robotics Applications**<br/>BOTZ, ROBO]
+    
+    A -.- E[The chips]
+    B -.- F[The buildings & power]
+    C -.- G[The software platforms]
+    D -.- H[The end use cases]
 ```
 
 Each layer depends on the one above — and capital flows down the chain.

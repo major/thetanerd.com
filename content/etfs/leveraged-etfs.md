@@ -361,16 +361,16 @@ Daily rebalancing means daily changes in exposure. These are not "set and forget
 
 ### Decision framework
 
-```
-Is this a short-term tactical trade?
-├── Yes → Leveraged ETFs may be appropriate
-│         └── Is volatility low and trend clear?
-│             ├── Yes → Higher probability of success
-│             └── No → Elevated decay risk
-└── No (holding weeks/months/years)
-    └── Do you understand the path-dependence?
-        ├── Yes, and accept the risks → Proceed with caution
-        └── No → Avoid leveraged ETFs
+```mermaid
+flowchart TD
+    A[Is this a short-term<br/>tactical trade?] -->|Yes| B[Is volatility low<br/>and trend clear?]
+    A -->|No| C[Do you understand<br/>path-dependence?]
+    
+    B -->|Yes| D[✅ Higher probability<br/>of success]
+    B -->|No| E[⚠️ Elevated<br/>decay risk]
+    
+    C -->|Yes, accept risks| F[⚠️ Proceed<br/>with caution]
+    C -->|No| G[❌ Avoid<br/>leveraged ETFs]
 ```
 
 ## Sources

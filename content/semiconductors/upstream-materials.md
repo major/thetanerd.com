@@ -156,14 +156,11 @@ Lithium sits at the intersection of semiconductors and electrification. Every de
 
 ### The Demand Chain
 
-```
-Semiconductor Demand (AI, EVs, IoT)
-    ↓
-Device Manufacturing (servers, cars, phones)
-    ↓
-Battery Demand (power the devices)
-    ↓
-Materials Demand (lithium, rare earths)
+```mermaid
+flowchart TD
+    A[**Semiconductor Demand**<br/>AI, EVs, IoT] --> B[**Device Manufacturing**<br/>servers, cars, phones]
+    B --> C[**Battery Demand**<br/>power the devices]
+    C --> D[**Materials Demand**<br/>lithium, rare earths]
 ```
 
 **Materials lag semiconductors** — when NVIDIA announces a new GPU architecture, the materials impact takes quarters to flow through.

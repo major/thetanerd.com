@@ -173,12 +173,14 @@ The index is down 1%, but SOXL is down 9%. This is **volatility decay** in actio
 
 ### The ETF Hierarchy
 
-```
-SMH/SOXX (Mega-cap weighted)
-    ↓
-  XSD (Equal-weight, small-cap tilt)
-    ↓
-  SOXL/USD (Leveraged, short-term)
+```mermaid
+flowchart TD
+    A[**SMH / SOXX**<br/>Mega-cap weighted] --> B[**XSD**<br/>Equal-weight, small-cap tilt]
+    B --> C[**SOXL / USD**<br/>Leveraged, short-term]
+    
+    A -.- D[Core exposure]
+    B -.- E[Higher beta]
+    C -.- F[Tactical trades only]
 ```
 
 - **SMH leads** in mega-cap-driven rallies (AI hype, NVIDIA earnings)
