@@ -35,6 +35,12 @@
     {
       "matchPackagePatterns": ["^github.com/colinwilson/lotusdocs", "^github.com/gohugoio/hugo-mod-bootstrap-scss"],
       "groupName": "hugo theme modules"
+    },
+    {
+      "matchManagers": ["github-actions"],
+      "automerge": true,
+      "automergeType": "pr",
+      "automergeStrategy": "squash"
     }
   ]
 }
