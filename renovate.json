@@ -1,11 +1,40 @@
 {
-    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-    "extends": [
-        "config:recommended",
-        ":automergeAll",
-        "config:best-practices"
-    ],
-    "git-submodules": {
-        "enabled": true
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended",
+    ":automergeAll",
+    ":semanticCommits",
+    "helpers:pinGitHubActionDigests"
+  ],
+  "customManagers": [
+    {
+      "customType": "regex",
+      "fileMatch": ["^\\.hugo-version$"],
+      "matchStrings": ["(?<currentValue>\\d+\\.\\d+\\.\\d+)"],
+      "depNameTemplate": "gohugoio/hugo",
+      "datasourceTemplate": "github-releases",
+      "extractVersionTemplate": "^v(?<version>.*)$"
+    },
+    {
+      "customType": "regex",
+      "fileMatch": ["\\.github/workflows/.*\\.yml$"],
+      "matchStrings": ["S3DEPLOY_VERSION=(?<currentValue>\\d+\\.\\d+\\.\\d+)"],
+      "depNameTemplate": "bep/s3deploy",
+      "datasourceTemplate": "github-releases",
+      "extractVersionTemplate": "^v(?<version>.*)$"
+    },
+    {
+      "customType": "regex",
+      "fileMatch": ["\\.github/workflows/.*\\.yml$"],
+      "matchStrings": ["go-version:\\s*[\"']?(?<currentValue>\\d+\\.\\d+)[\"']?"],
+      "depNameTemplate": "golang",
+      "datasourceTemplate": "docker"
     }
+  ],
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["^github.com/colinwilson/lotusdocs", "^github.com/gohugoio/hugo-mod-bootstrap-scss"],
+      "groupName": "hugo theme modules"
+    }
+  ]
 }

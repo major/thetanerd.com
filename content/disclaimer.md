@@ -1,7 +1,7 @@
 ---
 title: "Financial disclaimer"
-date: "2025-07-06"
-searchHidden: true
+sidebar:
+  exclude: true
 ---
 
 I'm thrilled that you've stopped by to read my blog about trading, but there are a few important things to keep in mind:

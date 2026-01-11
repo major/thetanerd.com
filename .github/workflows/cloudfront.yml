@@ -13,29 +13,30 @@ concurrency:
   group: "cloudfront"
   cancel-in-progress: true
 
-# Default to bash
 defaults:
   run:
     shell: bash
 
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f # v3
-        with:
-          hugo-version: "latest"
-          extended: true
-
       - name: Checkout
-        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+
+      - name: Setup Hugo
+        run: |
+          HUGO_VERSION=$(cat .hugo-version)
+          curl -sL --retry 5 "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz" | tar xzf - hugo
+          ./hugo version
+
+      - name: Setup Go
+        uses: actions/setup-go@d35c59abb061a4a6fb18e82ac0862c26744d6ab5 # v5
         with:
-          submodules: recursive
+          go-version: "1.21"
 
       - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@00943011d9042930efac3dcd3a170e4273319bc8 # v5.1.0
+        uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4
         with:
           role-to-assume: arn:aws:iam::911986281031:role/github-actions-thetanerd.com-blog
           role-duration-seconds: 900
@@ -45,19 +46,12 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
-        run: hugo --minify
-
-      - name: Fix RSS feed
-        run: |
-          mkdir -vp public/feed
-          cp public/index.xml public/feed/index.xml
-          cp public/index.xml public/feed/index.html
+        run: ./hugo --gc --minify
 
       - name: Download s3deploy
         run: |
-          export S3DEPLOY_VERSION=2.12.1
-          curl -sLO https://github.com/bep/s3deploy/releases/download/v${S3DEPLOY_VERSION}/s3deploy_${S3DEPLOY_VERSION}_linux-amd64.tar.gz
-          tar -xzf s3deploy_${S3DEPLOY_VERSION}_linux-amd64.tar.gz s3deploy
+          S3DEPLOY_VERSION=2.12.1
+          curl -sL "https://github.com/bep/s3deploy/releases/download/v${S3DEPLOY_VERSION}/s3deploy_${S3DEPLOY_VERSION}_linux-amd64.tar.gz" | tar xzf - s3deploy
           chmod +x s3deploy
 
       - name: Deploy to S3 using s3deploy

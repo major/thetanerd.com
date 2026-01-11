@@ -1,6 +1,7 @@
-module major.io
+module github.com/major/thetanerd.com
 
-go 1.20
+go 1.21
 
-require github.com/gohugoio/hugo v0.152.1
-require github.com/bep/s3deploy v2.12.1
+require (
+	github.com/imfing/hextra v0.11.1 // indirect
+)

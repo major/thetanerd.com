@@ -1,152 +1,59 @@
 baseURL: "https://thetanerd.com/"
-title: "Theta Nerd 🤓 📈"
-copyright: >
-  💙 [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en) by Major Hayden.
-  🛑 Read the [Financial disclaimer](/disclaimer)
-theme: [PaperMod]
-enableInlineShortcodes: true
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
+title: "Theta Nerd"
+languageCode: "en-us"
+contentDir: "content"
 enableEmoji: true
-pygmentsUseClasses: true
-mainsections: ["posts"]
+enableRobotsTXT: true
+enableGitInfo: true
 
-permalinks:
-  posts: "/p/:contentbasename/"
+# Hugo module configuration for Hextra theme
+module:
+  imports:
+    - path: github.com/imfing/hextra
 
-minify:
-  disableXML: true
-  minifyOutput: true
-
-pagination:
-  disableAliases: false
-  pagerSize: 10
-
-languages:
-  en:
-    languageName: "English"
-    weight: 1
-    taxonomies:
-      category: categories
-      tag: tags
-      series: series
-    menu:
-      main:
-        # - name: Market Reports
-        #   url: stocks/
-        #   weight: 5
-        - name: Posts
-          url: posts/
-          weight: 10
-        - name: Search
-          url: search/
-          weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
-        - name: RSS Feed
-          url: /index.xml
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
-
-params:
-  env: production
-  description: "A blog about trading, options, and the markets."
-  author: Major Hayden
-
-  defaultTheme: auto
-  # disableThemeToggle: true
-  ShowShareButtons: true
-  ShowReadingTime: true
-  # disableSpecial1stPost: true
-  displayFullLangName: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  ShowRssButtonInSectionTermList: true
-  ShowAllPagesInArchive: true
-  ShowPageNums: true
-  ShowToc: true
-  ShowWordCount: true
-  comments: false
-
-  cover:
-    linkFullImages: true
-
-  homeInfoParams:
-    Title: "Let's learn about the markets together."
-    Content: |
-      👋 **Welcome!**\
-      \
-      This blog covers financial topics, including trading stocks and options, analyzing various charts, and managing risk.
-      I'm constantly learning and sharing my experiences.
-      I hope you find something useful here.
-
-      > ⚠️ **Notice: None of the content on this site is financial advice!**\
-      > &nbsp; &nbsp; &nbsp; Please review the [financial disclaimer](/disclaimer) before proceeding.
-
-      I wish you the best in your trading journey! 🍀\
-      \
-      _If you're looking for my nerdy blog on Linux, DevOps, and other tech topics, you can find it at [major.io](https://major.io)._
-
-  socialIcons:
-    - name: Mastodon
-      title: Join me on Mastodon
-      url: "https://tootloop.com/@major"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/majorhayden"
-    - name: GitHub
-      title: Check out this site's source code on github
-      url: "https://github.com/major/thetanerd.com"
-    - name: email
-      title: Send me an email
-      url: "mailto:major@thetanerd.com"
-    - name: RSS
-      title: Subscribe to the RSS feed
-      url: "/index.xml"
-
-  editPost:
-    URL: "https://github.com/major/thetanerd.com/tree/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
-
-  assets:
-    disableHLJS: true
-  #     favicon: "<link / abs url>"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
-  #     apple_touch_icon: "<link / abs url>"
-  #     safari_pinned_tab: "<link / abs url>"
-
-  # cover:
-  #     hidden: true # hide everywhere but not in structured data
-  #     hiddenInList: true # hide on list pages and home
-  #     hiddenInSingle: true # hide on single page
-
-  # fuseOpts:
-  #     isCaseSensitive: false
-  #     shouldSort: true
-  #     location: 0
-  #     distance: 1000
-  #     threshold: 0.4
-  #     minMatchCharLength: 0
-  #     keys: ["title", "permalink", "summary", "content"]
-
+# Markup configuration
 markup:
   goldmark:
     renderer:
       unsafe: true
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+
+# Site parameters
+params:
+  description: "Documentation for trading stocks and options in financial markets"
+
+  navbar:
+    displayTitle: true
+    displayLogo: false
+
+  footer:
+    displayCopyright: true
+    displayPoweredBy: false
+
+  editURL:
+    enable: false
+
+  # Search
+  search:
+    enable: true
+    type: flexsearch
+
+  theme:
+    default: system
+
+  displayUpdatedDate: true
+  dateFormat: "2006-01-02"
+
+menu:
+  main:
+    - name: "Home"
+      pageRef: /
+      weight: 1
+    - name: "Disclaimer"
+      pageRef: /disclaimer
+      weight: 2
+  sidebar:
+    - name: "Financial Disclaimer"
+      pageRef: /disclaimer
+      weight: 1

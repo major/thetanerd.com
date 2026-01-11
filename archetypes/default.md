@@ -1,5 +1,10 @@
 ---
-date: '{{ .Date }}'
+title: "{{ replace .File.ContentBaseName "-" " " | title }}"
+description: ""
+icon: "article"
+date: {{ .Date }}
+lastmod: {{ .Date }}
 draft: true
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+toc: true
+weight: 999
 ---
