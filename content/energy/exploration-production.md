@@ -1,5 +1,5 @@
 ---
-title: "Exploration & Production"
+title: "🔍 Exploration & Production"
 description: "E&P oil company ETFs — high-beta exposure, breakeven economics, and which instruments to use"
 weight: 20
 ---

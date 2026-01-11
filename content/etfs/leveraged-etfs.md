@@ -1,5 +1,5 @@
 ---
-title: "Leveraged ETFs"
+title: "🚀 Leveraged ETFs"
 description: "How leveraged ETFs work, why they decay, and what happens when you hold them for days, months, or years"
 ---
 

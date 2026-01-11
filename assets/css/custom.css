@@ -3,3 +3,10 @@
   --hextra-max-navbar-width: 90rem;
   --hextra-max-footer-width: 90rem;
 }
+
+/* Wider sidebar to accommodate emoji titles */
+@media (min-width: 768px) {
+  .hextra-sidebar-container {
+    width: 18rem;
+  }
+}

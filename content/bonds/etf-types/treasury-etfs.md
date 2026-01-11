@@ -1,5 +1,5 @@
 ---
-title: "Treasury & TIPS ETFs"
+title: "🇺🇸 Treasury & TIPS ETFs"
 description: "US Treasury and inflation-protected bond ETFs — the risk-free foundation of fixed income"
 ---
 

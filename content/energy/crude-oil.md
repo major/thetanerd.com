@@ -1,5 +1,5 @@
 ---
-title: "Crude Oil"
+title: "🛢️ Crude Oil"
 description: "Crude oil ETF mechanics — contango, backwardation, and which instruments to use"
 weight: 10
 ---

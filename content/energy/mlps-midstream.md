@@ -1,5 +1,5 @@
 ---
-title: "MLPs & Midstream"
+title: "🚰 MLPs & Midstream"
 description: "MLP and midstream ETFs — fee-based income, distribution coverage, and which instruments to use"
 weight: 40
 ---

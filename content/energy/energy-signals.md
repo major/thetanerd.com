@@ -1,5 +1,5 @@
 ---
-title: "Energy Market Signals"
+title: "📡 Energy Market Signals"
 description: "How energy ETF ratios and relative charts reveal sector rotation, capex cycles, and oil price shifts before they become obvious"
 weight: 1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Semiconductor ETFs"
+title: "🧩 Semiconductor ETFs"
 description: "Comparing SMH, SOXX, and XSD — the core semiconductor ETFs, plus alternatives and leveraged products for tactical trading"
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Bonds"
+title: "🏦 Bonds"
+weight: 1
 sidebar:
   open: true
 ---
@@ -9,6 +10,6 @@ The bond market is often called the "smart money" market — where institutions,
 This section covers the bond ETF landscape and how their relative movements signal risk-on/off regimes, yield curve shifts, and Fed policy expectations.
 
 {{< cards >}}
-  {{< card link="bonds-as-signals" title="Bonds as Market Signals" subtitle="How treasury ETF ratios like TLT/SPY and IEI/TLT reveal hidden risk-on/off shifts" >}}
-  {{< card link="etf-types" title="Bond ETF Types" subtitle="Treasuries, corporates, MBS, munis, and aggregates — the complete toolkit" >}}
+  {{< card link="bonds-as-signals" title="📡 Bond Market Signals" subtitle="How treasury ETF ratios like TLT/SPY and IEI/TLT reveal hidden risk-on/off shifts" >}}
+  {{< card link="etf-types" title="📚 Bond ETF Types" subtitle="Treasuries, corporates, MBS, munis, and aggregates — the complete toolkit" >}}
 {{< /cards >}}

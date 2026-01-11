@@ -1,5 +1,5 @@
 ---
-title: "Copper"
+title: "🔶 Copper"
 description: "How copper markets move — sequencing, ETFs to monitor, relative charts, and timing signals for traders"
 ---
 

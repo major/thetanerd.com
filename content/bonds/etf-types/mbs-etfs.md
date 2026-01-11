@@ -1,5 +1,5 @@
 ---
-title: "Mortgage-Backed Securities ETFs"
+title: "🏠 Mortgage-Backed Securities ETFs"
 description: "MBS ETFs for housing market exposure — prepayment dynamics, Fed policy signals, and key instruments"
 ---
 

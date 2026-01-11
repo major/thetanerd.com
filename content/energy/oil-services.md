@@ -1,5 +1,5 @@
 ---
-title: "Oil Services"
+title: "🔧 Oil Services"
 description: "Oil services ETFs — capex cycle dynamics, utilization, and which instruments to use"
 weight: 30
 ---

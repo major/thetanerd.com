@@ -1,5 +1,5 @@
 ---
-title: "Downstream Products"
+title: "🖥️ Downstream Products"
 description: "Data centers, cloud computing, and robotics ETFs — where semiconductors go to work"
 ---
 

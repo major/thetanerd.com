@@ -1,5 +1,5 @@
 ---
-title: "Municipal Bond ETFs"
+title: "🏛️ Municipal Bond ETFs"
 description: "Municipal bond ETFs for tax-advantaged income — when munis make sense and which ETFs to consider"
 ---
 

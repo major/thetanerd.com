@@ -1,5 +1,5 @@
 ---
-title: "Creation & Redemption"
+title: "🔄 Creation & Redemption"
 description: "How ETF shares are created and destroyed — the Authorized Participant mechanism that keeps prices aligned with value"
 ---
 

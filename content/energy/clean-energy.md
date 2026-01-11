@@ -1,5 +1,5 @@
 ---
-title: "Clean Energy"
+title: "🌱 Clean Energy"
 description: "Solar, wind, and renewable energy ETFs — ICLN, TAN, QCLN, and alternatives for playing the energy transition"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Aggregate Bond ETFs"
+title: "🧺 Aggregate Bond ETFs"
 description: "Aggregate bond ETFs for broad fixed-income exposure — the simple approach to bond allocation"
 ---
 

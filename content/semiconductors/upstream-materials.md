@@ -1,5 +1,5 @@
 ---
-title: "Upstream Materials"
+title: "⚗️ Upstream Materials"
 description: "Rare earth and lithium ETFs — the critical inputs that make semiconductors and their end products possible"
 ---
 

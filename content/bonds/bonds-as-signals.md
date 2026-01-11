@@ -1,5 +1,5 @@
 ---
-title: "Bond Market Signals"
+title: "📡 Bond Market Signals"
 description: "How treasury ETF movements and relative charts reveal hidden risk-on/off shifts before they show up in equities"
 weight: 1
 ---

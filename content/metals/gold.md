@@ -1,5 +1,5 @@
 ---
-title: "Gold"
+title: "🪙 Gold"
 description: "How gold markets move — the fear metal, ETF ecosystem, real rates relationship, and timing signals for traders"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Expense Ratios"
+title: "💸 Expense Ratios"
 description: "What you're really paying for ETFs — daily deductions, hidden costs, and how fees compound over decades"
 ---
 

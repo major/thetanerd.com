@@ -1,5 +1,5 @@
 ---
-title: "Silver"
+title: "🥈 Silver"
 description: "How silver markets move — its dual personality, ETFs to monitor, relative charts, and timing signals for traders"
 ---
 

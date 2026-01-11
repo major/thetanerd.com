@@ -1,5 +1,5 @@
 ---
-title: "Semiconductor Signals"
+title: "📡 Semiconductor Signals"
 description: "How semiconductor ETF ratios and relative charts reveal sector rotation, AI cycle phases, and chip demand shifts before they become obvious"
 weight: 1
 ---

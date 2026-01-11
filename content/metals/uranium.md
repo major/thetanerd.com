@@ -1,5 +1,5 @@
 ---
-title: "Uranium"
+title: "☢️ Uranium"
 description: "How uranium markets move — nuclear renaissance drivers, ETF relationships, relative charts, and timing signals for traders"
 ---
 

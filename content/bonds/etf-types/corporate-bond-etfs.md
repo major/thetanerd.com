@@ -1,5 +1,5 @@
 ---
-title: "Corporate Bond ETFs"
+title: "🏢 Corporate Bond ETFs"
 description: "Investment-grade, high-yield (junk), and floating rate corporate bond ETFs — credit risk across the spectrum"
 ---
 
