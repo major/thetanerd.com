@@ -50,8 +50,6 @@ Every page needs YAML front matter:
 title: "Page Title with Emoji"      # Use emoji prefix for sections
 description: "SEO description"       # Optional but recommended
 weight: 10                           # Controls sidebar ordering
-sidebar:
-  open: true                         # Expand section in sidebar
 ---
 ```
 

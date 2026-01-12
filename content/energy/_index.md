@@ -2,7 +2,7 @@
 title: "⚡ Energy"
 weight: 3
 sidebar:
-  open: true
+  open: false
 ---
 
 Understanding how energy markets move is essential for traders watching oil, natural gas, and related equities. This section covers the mechanics of trading energy — what moves first, what confirms, and how to time entries and exits using relative strength signals.

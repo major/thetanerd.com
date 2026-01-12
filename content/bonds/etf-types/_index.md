@@ -2,7 +2,7 @@
 title: "📚 Bond ETF Types"
 weight: 20
 sidebar:
-  open: true
+  open: false
 ---
 
 Bond ETFs come in many flavors, each serving different purposes in a portfolio. This section covers the major categories — from risk-free treasuries to tax-advantaged munis — and helps you understand which ETFs fit your needs.

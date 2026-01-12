@@ -2,7 +2,7 @@
 title: "🔌 Semiconductors"
 weight: 7
 sidebar:
-  open: true
+  open: false
 ---
 
 Semiconductors are the backbone of modern technology — powering everything from smartphones to AI data centers. This section covers the semiconductor ETF ecosystem, from the chips themselves to the materials that make them and the products that consume them.

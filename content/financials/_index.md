@@ -2,7 +2,7 @@
 title: "🏦 Financials"
 weight: 4
 sidebar:
-  open: true
+  open: false
 ---
 
 The financial sector is the heartbeat of the economy — banks lend, insurers manage risk, and capital markets allocate resources. For traders, financials offer unique signals: they respond to interest rates, credit conditions, and Fed policy in predictable ways. Understanding the hierarchy from mega-cap banks to regional lenders to fintech disruptors is essential for sector rotation and risk management.

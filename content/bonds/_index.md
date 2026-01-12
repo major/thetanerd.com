@@ -2,7 +2,7 @@
 title: "🏦 Bonds"
 weight: 1
 sidebar:
-  open: true
+  open: false
 ---
 
 The bond market is often called the "smart money" market — where institutions, pension funds, and central banks move billions based on economic fundamentals. For equity and options traders, understanding how bond ETFs move can reveal hidden market shifts before they appear in stock prices.

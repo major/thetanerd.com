@@ -2,7 +2,7 @@
 title: "⛏️ Metals"
 weight: 5
 sidebar:
-  open: true
+  open: false
 ---
 
 Understanding how metals markets move is essential for traders watching commodities, miners, and industrial sectors. This section covers the mechanics of trading metals — what moves first, what confirms, and how to time entries and exits.

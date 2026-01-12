@@ -2,7 +2,7 @@
 title: "🛒 Consumer"
 weight: 2
 sidebar:
-  open: true
+  open: false
 ---
 
 The consumer sector is the market's real-time economic health monitor. Consumer Discretionary (XLY) represents what people *want* to buy — cars, restaurants, travel, luxury goods. Consumer Staples (XLP) represents what people *need* to buy — food, household products, toiletries. The ratio between them is one of the most powerful risk sentiment indicators available.
