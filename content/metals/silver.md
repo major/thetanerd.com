@@ -1,6 +1,7 @@
 ---
 title: "🥈 Silver"
 description: "How silver markets move — its dual personality, ETFs to monitor, relative charts, and timing signals for traders"
+weight: 50
 ---
 
 Silver is the **hybrid metal** — part precious, part industrial — and that duality makes it one of the most volatile and misunderstood trades in the commodity space. Understanding silver's split personality gives traders an edge in timing entries and reading what the market is actually pricing.

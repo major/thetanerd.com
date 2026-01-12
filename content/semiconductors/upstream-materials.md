@@ -97,60 +97,21 @@ When China restricted gallium and germanium exports in 2023, it sent shockwaves 
 
 Lithium sits at the intersection of semiconductors and electrification. Every device that uses a chip also needs power — and increasingly, that power comes from lithium-ion batteries.
 
-### LIT — The Largest Lithium ETF
+{{< callout type="info" >}}
+For a deep dive on lithium as a tradeable commodity — including supply concentration, price cycles, and timing signals — see the dedicated [Lithium](/metals/lithium/) page in the Metals section.
+{{< /callout >}}
 
-| Attribute | Details |
-|-----------|---------|
-| **ETF** | [LIT](https://www.globalxetfs.com/funds/lit/) |
-| **Name** | Global X Lithium & Battery Tech |
-| **Expense Ratio** | 0.75% |
-| **Holdings** | ~40 companies across the lithium value chain |
-| **AUM** | ~$1.5B |
-| **Index** | Solactive Global Lithium Index |
+### Key Lithium/Battery ETFs
 
-**What LIT holds:**
-- Lithium miners (Albemarle, SQM, Pilbara Minerals)
-- Battery manufacturers (CATL, Panasonic, Samsung SDI)
-- EV makers with battery integration (Tesla has been included)
+| ETF | Name | Expense | Holdings | Best For |
+|-----|------|---------|----------|----------|
+| [**LIT**](https://www.globalxetfs.com/funds/lit/) | Global X Lithium & Battery Tech | 0.75% | ~40 | Concentrated lithium bet |
+| [**BATT**](https://amplifyetfs.com/batt/) | Amplify Lithium & Battery Technology | 0.59% | ~100 | Diversified battery exposure |
+| [**DRIV**](https://www.globalxetfs.com/funds/driv/) | Global X Autonomous & Electric Vehicles | 0.68% | ~75 | EVs + battery supply chain |
 
-**Key characteristics:**
-- **Full value chain**: Miners + battery makers + some EV exposure
-- **More diversified** than pure mining plays
-- **China exposure**: Significant holdings in Chinese battery companies
+**LIT** holds the full lithium value chain — miners (Albemarle, SQM), battery manufacturers (CATL, Panasonic), and integrated EV/battery players. **BATT** offers broader battery ecosystem exposure with lower expenses but less liquidity.
 
-### BATT — The Broader Battery Play
-
-| Attribute | Details |
-|-----------|---------|
-| **ETF** | [BATT](https://amplifyetfs.com/batt/) |
-| **Name** | Amplify Lithium & Battery Technology |
-| **Expense Ratio** | 0.59% |
-| **Holdings** | ~100 companies |
-| **AUM** | ~$100M |
-| **Index** | EQM Lithium & Battery Technology Index |
-
-**What BATT holds:**
-- Broader exposure than LIT
-- Includes more mining companies
-- Fuel cell and alternative battery technology exposure
-
-**LIT vs BATT:**
-
-| Factor | LIT | BATT |
-|--------|-----|------|
-| **Focus** | Lithium + batteries | Broader battery ecosystem |
-| **Holdings** | ~40 | ~100 |
-| **Expense** | 0.75% | 0.59% |
-| **AUM/Liquidity** | Higher | Lower |
-| **Best for** | Concentrated lithium bet | Diversified battery exposure |
-
-### Other lithium/battery ETFs
-
-| ETF | Name | Expense | Focus |
-|-----|------|---------|-------|
-| [**DRIV**](https://www.globalxetfs.com/funds/driv/) | Global X Autonomous & Electric Vehicles | 0.68% | EVs + battery supply chain |
-| [**CHRG**](https://www.globalxetfs.com/funds/chrg/) | Global X EV Charging Infrastructure | 0.75% | Charging infrastructure |
-| [**KARS**](https://www.kraneshares.com/kars/) | KraneShares Electric Vehicles & Future Mobility | 0.70% | China EV focus |
+Both have significant China exposure through battery manufacturers (CATL, BYD).
 
 ## How do materials relate to semiconductors?
 
@@ -273,9 +234,10 @@ Position sizing should reflect this cyclicality.
 ## Related themes
 
 {{< cards >}}
-  {{< card link="/energy/clean-energy" title="Clean Energy ETFs" subtitle="ICLN and renewables — the electrification theme that drives battery and materials demand" icon="lightning-bolt" >}}
-  {{< card link="/metals/copper" title="Copper" subtitle="The electrification metal — copper demand connects directly to the EV and renewable buildout" icon="cube" >}}
-  {{< card link="/semiconductors/downstream-products" title="Downstream Products" subtitle="Where semiconductor demand originates — EVs, AI servers, and consumer devices" icon="chip" >}}
+  {{< card link="/metals/lithium" title="Lithium" subtitle="The EV battery metal — supply cycles, price volatility, and timing signals" >}}
+  {{< card link="/metals/copper" title="Copper" subtitle="The electrification metal — copper demand connects directly to the EV and renewable buildout" >}}
+  {{< card link="/energy/clean-energy" title="Clean Energy ETFs" subtitle="ICLN and renewables — the electrification theme that drives battery and materials demand" >}}
+  {{< card link="/semiconductors/downstream-products" title="Downstream Products" subtitle="Where semiconductor demand originates — EVs, AI servers, and consumer devices" >}}
 {{< /cards >}}
 
 ## Sources

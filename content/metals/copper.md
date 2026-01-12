@@ -1,6 +1,7 @@
 ---
 title: "🔶 Copper"
 description: "How copper markets move — sequencing, ETFs to monitor, relative charts, and timing signals for traders"
+weight: 10
 ---
 
 Copper is the bellwether metal for global economic activity and, increasingly, the **electrification trade**. Understanding how the copper complex moves — and in what order — gives traders an edge in timing entries across miners, the commodity itself, and related industrial plays.

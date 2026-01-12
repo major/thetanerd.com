@@ -1,6 +1,7 @@
 ---
 title: "🪙 Gold"
 description: "How gold markets move — the fear metal, ETF ecosystem, real rates relationship, and timing signals for traders"
+weight: 20
 ---
 
 Gold is the **fear metal** — the ultimate store of value and safe haven that has preserved wealth for millennia. Unlike copper (industrial demand) or silver (hybrid), gold is driven primarily by **sentiment, real interest rates, and monetary policy**. Understanding how the gold complex moves — and the massive ETF ecosystem surrounding it — gives traders an edge in timing entries across physical gold, miners, and leveraged instruments.
