@@ -160,6 +160,35 @@ IEF/TLT becomes important during **Fed pivot periods**. When the market believes
 
 If IEF/TLT is rising during a supposed "pivot trade," be skeptical — the belly outperforming suggests uncertainty.
 
+### EMB/TLT — Global Risk Appetite
+
+This ratio compares emerging market bonds to US treasuries, capturing global risk sentiment and dollar dynamics.
+
+- **EMB/TLT rising**: EM outperforming treasuries — global risk-on, yield-seeking, dollar weakness
+- **EMB/TLT falling**: Flight to quality — risk-off, dollar strength, EM stress
+
+#### Why EM bonds are an early warning
+
+EM bond weakness often **precedes** broader risk-off moves:
+
+1. Dollar starts strengthening
+2. EM bonds sell off (EMB/TLT falling)
+3. EM equities follow
+4. US high-yield weakens (contagion)
+5. Finally, US equities react
+
+When EMB/TLT breaks down while TLT/SPY is still stable, global stress may be building that hasn't yet reached US markets.
+
+| EMB/TLT Behavior | What It Signals |
+|------------------|-----------------|
+| Rising steadily | Global risk-on, carry trades working, dollar weak |
+| Falling sharply | Dollar surge, EM crisis brewing, flight to quality |
+| Diverging from TLT/HYG | EM-specific stress vs. broad credit stress |
+
+{{< callout type="info" >}}
+For complete EM bond ETF coverage including EMHY (high-yield EM), see [Emerging Market Bond ETFs]({{< ref "emerging-market-bond-etfs" >}}).
+{{< /callout >}}
+
 ## Putting the ratios together
 
 No single ratio tells the complete story. Here's how to read them as a **dashboard**:
@@ -172,6 +201,7 @@ No single ratio tells the complete story. Here's how to read them as a **dashboa
 | TLT/HYG | Falling | ✓ Credit risk embraced |
 | IEI/TLT | Rising or flat | ✓ No rush to duration |
 | SHY/TLT | Flat or rising | ✓ No panic bid for long bonds |
+| EMB/TLT | Rising | ✓ Global carry trades working |
 
 ### Risk-off regime
 
@@ -181,6 +211,7 @@ No single ratio tells the complete story. Here's how to read them as a **dashboa
 | TLT/HYG | Rising | ✓ Credit stress |
 | IEI/TLT | Falling | ✓ Demand for duration |
 | SHY/TLT | Falling | ✓ Long-end bid |
+| EMB/TLT | Falling | ✓ EM stress, dollar strength |
 
 ### Mixed/transitional signals
 
@@ -266,11 +297,12 @@ During genuine crises (March 2020), correlations break down and everything sells
 
 ### Mistake 4: Overcomplicating it
 
-You don't need 20 ratios. Master these four:
+You don't need 20 ratios. Master these five:
 1. **TLT/SPY** — risk-on/off regime
 2. **TLT/HYG** — credit stress
 3. **IEI/TLT** — yield curve
 4. **SHY/TLT** — Fed expectations
+5. **EMB/TLT** — global risk appetite
 
 Everything else is refinement.
 
@@ -283,6 +315,7 @@ Everything else is refinement.
 | **IEI/TLT** | Curve steepening | Curve flattening | Economic expectations |
 | **SHY/TLT** | Fed cuts expected | Duration demand, Fed hold | Fed policy timing |
 | **IEF/TLT** | Belly preferred, uncertainty | Duration conviction | Pivot confirmation |
+| **EMB/TLT** | Global risk-on, EM bid | EM stress, dollar strength | Global risk appetite |
 
 {{< callout type="tip" >}}
 **The bottom line**: Bond markets are where institutions express their true views. Equity prices can be noisy, meme-driven, and emotional. Treasury ETF ratios cut through the noise and show you what the "smart money" is actually doing. Master TLT/SPY and TLT/HYG first — they'll catch most regime shifts before they show up in stock prices.

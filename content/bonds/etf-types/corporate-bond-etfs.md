@@ -50,6 +50,25 @@ Investment-grade corporates offer a yield premium over treasuries while maintain
 
 **LQD** is the benchmark — high liquidity, broad exposure. For lower duration risk, use VCSH or IGSB.
 
+### Interest rate hedged corporate bonds
+
+If you want investment-grade corporate credit exposure **without** interest rate risk, hedged ETFs use interest rate swaps to neutralize duration:
+
+| ETF | Name | Effective Duration | Expense Ratio | What It Tracks |
+|-----|------|-------------------|---------------|----------------|
+| [**LQDH**](https://www.ishares.com/us/products/264542/ishares-interest-rate-hedged-corporate-bond-etf) | iShares Interest Rate Hedged Corp Bond | ~0 years | 0.24% | LQD + rate hedge overlay |
+
+**LQDH** essentially holds LQD (investment-grade corporates) plus interest rate swaps that offset duration exposure. The result is near-zero effective duration — you get the credit spread without rate sensitivity.
+
+| Scenario | LQD Behavior | LQDH Behavior |
+|----------|--------------|---------------|
+| Rates rise, spreads stable | Falls (duration) | Flat |
+| Rates fall, spreads stable | Rises (duration) | Flat |
+| Spreads widen (credit stress) | Falls | Falls |
+| Spreads tighten (risk-on) | Rises | Rises |
+
+**When to use LQDH**: When you want corporate credit exposure but expect rates to rise, or when you want to isolate pure credit spread movements without rate noise.
+
 ### The credit spread signal
 
 The spread between corporate bonds and treasuries (LQD yield minus comparable treasury yield) is a key indicator:
@@ -152,6 +171,7 @@ Floating rate bonds have coupons that adjust with short-term interest rates. **S
 | IG exposure (broad) | LQD |
 | IG exposure (low duration) | VCSH, IGSB |
 | IG exposure (long duration) | VCLT |
+| IG exposure (rate hedged) | LQDH |
 | High-yield exposure | HYG, JNK |
 | High-yield (lower duration) | SJNK, SHYG |
 | High-yield (lowest cost) | USHY |
@@ -179,6 +199,8 @@ Learn more about the contents of this page by reviewing these sources:
 {{% details title="Investment-grade ETF information" closed="true" %}}
 
 - **LQD**: [iShares](https://www.ishares.com/us/products/239566/ishares-iboxx-investment-grade-corporate-bond-etf) — 0.14% expense ratio, ~8.4 year duration.
+
+- **LQDH**: [iShares](https://www.ishares.com/us/products/264542/ishares-interest-rate-hedged-corporate-bond-etf) — 0.24% net expense ratio (after waiver), ~0 effective duration. Holds LQD plus interest rate swaps. Morningstar Gold rated.
 
 - **VCSH/VCIT/VCLT**: [Vanguard](https://investor.vanguard.com/investment-products/etfs/profile/vcsh) — 0.04% expense ratios.
 
