@@ -162,11 +162,7 @@ Located in `assets/css/custom.css`. Uses CSS custom properties to override Hextr
 
 ## Deployment
 
-### Cloudflare Workers (Primary)
-
-Configured in `wrangler.toml`. Build runs `./build.sh`, serves from `public/`.
-
-### AWS CloudFront
+### AWS CloudFront (Primary)
 
 GitHub Actions workflow in `.github/workflows/cloudfront.yml`. Uses s3deploy to sync to S3 bucket.
 

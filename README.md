@@ -16,7 +16,7 @@
 
 * [Hugo](https://gohugo.io/) static site generator (version pinned in `.hugo-version`)
 * [Hextra](https://imfing.github.io/hextra/) theme
-* Deploys to Cloudflare Workers, AWS CloudFront, and GitHub Pages
+* Deploys to AWS CloudFront and GitHub Pages
 
 ## License
 
