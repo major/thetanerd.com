@@ -1,6 +1,6 @@
 ---
 title: "🔌 Semiconductors"
-weight: 5
+weight: 7
 sidebar:
   open: true
 ---

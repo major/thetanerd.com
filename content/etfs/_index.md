@@ -1,6 +1,6 @@
 ---
 title: "📊 ETFs"
-weight: 3
+weight: 4
 sidebar:
   open: true
 ---
