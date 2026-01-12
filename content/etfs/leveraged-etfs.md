@@ -297,6 +297,10 @@ Recent research (2025) suggests the decay may be less severe than previously tho
 | **SOXS** | Direxion Daily Semiconductor Bear 3X | -3x | 1.01% | ICE Semiconductor |
 | **SDS** | ProShares UltraShort S&P 500 | -2x | 0.89% | S&P 500 |
 
+{{< callout type="info" >}}
+**Deep dive on semiconductors**: SOXL and SOXS track the ICE Semiconductor Index. For more on the semiconductor ETF ecosystem and how to read the chip cycle, see the [Semiconductor ETFs](/semiconductors/semiconductor-etfs/) page.
+{{< /callout >}}
+
 {{< callout type="error" >}}
 **Inverse ETFs carry additional risk**: In a rising market, inverse leveraged ETFs can lose 90%+ of their value even if the underlying index rises only modestly. They are designed for very short-term tactical trades, not hedging long-term portfolios.
 {{< /callout >}}

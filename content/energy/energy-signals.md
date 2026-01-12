@@ -112,6 +112,10 @@ The divergence detector:
 
 ## Cross-asset signals
 
+{{< callout type="info" >}}
+**Deeper dive**: For complete coverage of gold as a fear indicator and the GLD/SPY relationship, see [Gold]({{< ref "/metals/gold" >}}). For copper as a growth indicator, see [Copper]({{< ref "/metals/copper" >}}).
+{{< /callout >}}
+
 ### USO/GLD — Oil vs. Gold
 
 Compares the "growth commodity" to the "fear commodity":
@@ -309,6 +313,16 @@ Use this as a quick reference for reading the energy complex:
 {{< callout type="tip" >}}
 **The bottom line**: Energy offers clear relative strength signals because different segments respond differently to oil prices. The XOP/XLE ratio tells you whether to favor high-beta or defensive exposure. The OIH/XOP ratio tells you where we are in the capex cycle. And AMLP divergence from oil tells you when fee-based models are being repriced. Monitor these ratios weekly and let them guide your energy allocation.
 {{< /callout >}}
+
+## Related signals across asset classes
+
+Energy signals interact with other commodity and risk indicators:
+
+{{< cards >}}
+  {{< card link="/metals/gold" title="Gold" subtitle="The fear commodity — USO/GLD captures growth vs. fear sentiment" >}}
+  {{< card link="/metals/copper" title="Copper" subtitle="The industrial bellwether — copper often leads energy on economic cycles" >}}
+  {{< card link="/bonds/bonds-as-signals" title="Bond Market Signals" subtitle="TLT/SPY and credit spreads reveal risk appetite that affects energy allocation" >}}
+{{< /cards >}}
 
 ## Deep dive: ETF fundamentals
 

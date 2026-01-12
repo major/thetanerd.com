@@ -28,7 +28,7 @@ Typical composition of AGG/BND:
 | **Other** | ~10% | Agencies, ABS, CMBS |
 
 {{< callout type="warning" >}}
-**No junk bonds**: Aggregate ETFs only hold **investment-grade** bonds. If you want high-yield exposure, you need to add it separately (HYG, JNK).
+**No junk bonds**: Aggregate ETFs only hold **investment-grade** bonds (rated BBB/Baa or higher). The [Bloomberg US Aggregate Bond Index](https://www.bloomberg.com/professional/product/indices/bloomberg-fixed-income-indices/) explicitly excludes bonds rated BB and below. If you want high-yield exposure, you need to add it separately (HYG, JNK).
 {{< /callout >}}
 
 ## Which aggregate bond ETFs should I watch?
@@ -127,6 +127,13 @@ For a truly diversified bond portfolio, many advisors recommend 70-80% US (BND) 
 {{< callout type="tip" >}}
 **The bottom line**: Aggregates are the "set and forget" option for bond allocation. AGG or BND for US exposure, add BNDX for international diversification, or use BNDW for a truly global approach. If you want to make tactical calls on duration, credit, or sectors, use targeted ETFs instead.
 {{< /callout >}}
+
+## Related topics
+
+{{< cards >}}
+  {{< card link="/etfs/creation-redemption" title="Creation & Redemption" subtitle="How ETF shares are created and redeemed — the mechanism that keeps prices aligned with NAV" icon="arrows-expand" >}}
+  {{< card link="/etfs/expense-ratios" title="Expense Ratios" subtitle="What expense ratios mean and how they compound over time" icon="calculator" >}}
+{{< /cards >}}
 
 ## Sources
 

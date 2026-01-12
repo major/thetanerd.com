@@ -191,6 +191,8 @@ When you buy XLY, you're getting significant AWS exposure embedded in your "cons
 | **WANT** | Direxion Daily Consumer Discretionary Bull 3X | +3x daily | 0.97% |
 | **PASS** | Direxion Daily Consumer Discretionary Bear 3X | -3x daily | 1.01% |
 
+For a deeper understanding of how leveraged ETFs work, including volatility decay, daily rebalancing mechanics, and when they're appropriate, see [Leveraged ETFs](/etfs/leveraged-etfs/).
+
 **Use cases:**
 - Short-term directional bets (1-3 days)
 - Hedging consumer discretionary exposure

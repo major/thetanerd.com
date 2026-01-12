@@ -282,6 +282,16 @@ The gold/silver ratio (gold price ÷ silver price) is one of the most useful sig
 **The bottom line:** Silver's dual personality means you must identify the driver first. Watch the gold/silver ratio for extremes, and respect that silver rallies end more violently than they begin.
 {{< /callout >}}
 
+## Related themes
+
+Silver's dual nature connects it to both precious metals and industrial demand:
+
+{{< cards >}}
+  {{< card link="/metals/gold" title="Gold" subtitle="The fear metal — the GLD/SLV ratio is key to understanding which personality dominates" >}}
+  {{< card link="/metals/copper" title="Copper" subtitle="The pure industrial play — when copper leads, silver's industrial side strengthens" >}}
+  {{< card link="/semiconductors/upstream-materials" title="Upstream Materials" subtitle="LIT and REMX — battery metals and rare earths share silver's electrification demand" >}}
+{{< /cards >}}
+
 ## Sources
 
 Learn more about the contents of this page by reviewing these sources:

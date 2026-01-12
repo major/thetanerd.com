@@ -328,6 +328,16 @@ This makes them useful for **diversification within the tech theme**.
 **The bottom line**: Downstream ETFs let you play the semiconductor supercycle through the products that consume chips. DTCR captures the physical buildout, CLOU captures the software platforms, and BOTZ/ROBO capture the end applications. Use them to diversify within the AI theme, confirm semiconductor demand, or get exposure with different risk profiles. Watch DTCR/SMH and CLOU/SMH ratios to see whether downstream is confirming or lagging the chip rally.
 {{< /callout >}}
 
+## Related themes
+
+Downstream semiconductor consumption connects to energy and materials:
+
+{{< cards >}}
+  {{< card link="/energy/clean-energy" title="Clean Energy" subtitle="ICLN, TAN — data center power demands are driving nuclear and renewable investment" >}}
+  {{< card link="/metals/uranium" title="Uranium" subtitle="Nuclear power is becoming the preferred baseload for AI data centers" >}}
+  {{< card link="/semiconductors/upstream-materials" title="Upstream Materials" subtitle="REMX, LIT — the raw materials that flow into chip production" >}}
+{{< /cards >}}
+
 ## Sources
 
 {{% details title="Data center ETF information" closed="true" %}}

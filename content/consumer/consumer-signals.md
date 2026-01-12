@@ -134,6 +134,10 @@ These ratios show consumer sector performance relative to the equal-weight S&P 5
 
 ## Cross-asset signals
 
+{{< callout type="info" >}}
+**Deeper dive**: For complete coverage of bond market signals including TLT/SPY, TLT/HYG, and yield curve ratios, see [Bond Market Signals]({{< ref "/bonds/bonds-as-signals" >}}).
+{{< /callout >}}
+
 ### XLY/TLT — Consumer vs. Long Bonds
 
 Compares risk-on consumer spending to flight-to-safety treasuries:
@@ -332,6 +336,15 @@ Use this as a quick reference for reading the consumer complex:
 {{< callout type="tip" >}}
 **The bottom line**: The XLY/XLP ratio is the market's real-time consumer confidence indicator. When it's rising, consumers are spending on wants — that's bullish for the economy and risk assets. When it's falling, consumers are retreating to needs — that's a warning sign. Monitor this ratio weekly alongside XRT/XLY for breadth confirmation, and you'll catch most consumer-driven market shifts before they become obvious.
 {{< /callout >}}
+
+## Related signals across asset classes
+
+Consumer signals are one piece of the risk sentiment puzzle. These related pages cover complementary indicators:
+
+{{< cards >}}
+  {{< card link="/bonds/bonds-as-signals" title="Bond Market Signals" subtitle="TLT/SPY and TLT/HYG — the institutional view on risk that often leads equities" >}}
+  {{< card link="/metals/gold" title="Gold" subtitle="GLD/SPY captures fear and flight-to-safety — the opposite of consumer confidence" >}}
+{{< /cards >}}
 
 ## Deep dive: ETF selection
 

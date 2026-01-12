@@ -288,6 +288,16 @@ Everything else is refinement.
 **The bottom line**: Bond markets are where institutions express their true views. Equity prices can be noisy, meme-driven, and emotional. Treasury ETF ratios cut through the noise and show you what the "smart money" is actually doing. Master TLT/SPY and TLT/HYG first — they'll catch most regime shifts before they show up in stock prices.
 {{< /callout >}}
 
+## Related signals across asset classes
+
+Bond market signals don't exist in isolation. These related pages cover complementary risk sentiment indicators:
+
+{{< cards >}}
+  {{< card link="/consumer/consumer-signals" title="Consumer Signals" subtitle="XLY/XLP ratio — the equity-based risk sentiment barometer that complements TLT/SPY" >}}
+  {{< card link="/energy/energy-signals" title="Energy Signals" subtitle="USO/SPY and commodity cycles — another lens on risk appetite and inflation" >}}
+  {{< card link="/metals/gold" title="Gold" subtitle="The fear metal — GLD/SPY captures flight-to-safety moves alongside TLT" >}}
+{{< /cards >}}
+
 ## Sources
 
 Learn more about the contents of this page by reviewing these sources:

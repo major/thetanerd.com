@@ -307,6 +307,12 @@ This is the **critical ratio** for understanding uranium sentiment:
 **The bottom line:** Uranium is a policy-driven, multi-year trade — not a swing trade. Watch the physical uranium market for early signals, use URNM/URA to gauge conviction, and respect that uranium cycles move slowly but can reverse hard at extremes.
 {{< /callout >}}
 
+## Related themes
+
+{{< cards >}}
+  {{< card link="/energy/clean-energy" title="Clean Energy ETFs" subtitle="Nuclear and renewables share the zero-carbon energy thesis — compare the clean energy ETF landscape" icon="lightning-bolt" >}}
+{{< /cards >}}
+
 ## Sources
 
 Learn more about the contents of this page by reviewing these sources:

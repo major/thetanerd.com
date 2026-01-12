@@ -230,6 +230,16 @@ This is the **critical ratio** for understanding the cycle:
 **The bottom line:** Don't chase the commodity move — watch the miners first. The copper market rewards patience and sequencing awareness.
 {{< /callout >}}
 
+## Related themes
+
+Copper connects to other sectors and commodity themes:
+
+{{< cards >}}
+  {{< card link="/semiconductors/upstream-materials" title="Upstream Materials" subtitle="REMX and LIT — rare earths and lithium that share the electrification demand story" >}}
+  {{< card link="/energy/clean-energy" title="Clean Energy" subtitle="ICLN and TAN — renewable energy drives copper demand for grid buildout" >}}
+  {{< card link="/metals/silver" title="Silver" subtitle="The hybrid metal — shares copper's industrial demand from solar and EVs" >}}
+{{< /cards >}}
+
 ## Sources
 
 Learn more about the contents of this page by reviewing these sources:

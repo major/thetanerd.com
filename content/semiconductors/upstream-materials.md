@@ -270,6 +270,14 @@ Position sizing should reflect this cyclicality.
 **The bottom line**: Materials ETFs offer leveraged exposure to the semiconductor and electrification supercycle — but with significantly more volatility and cyclicality. Use them tactically when you believe demand is flowing from chips to supply chain, or strategically if you're bullish on electrification and willing to stomach the swings. Watch REMX/SMH and LIT/SMH ratios for timing signals.
 {{< /callout >}}
 
+## Related themes
+
+{{< cards >}}
+  {{< card link="/energy/clean-energy" title="Clean Energy ETFs" subtitle="ICLN and renewables — the electrification theme that drives battery and materials demand" icon="lightning-bolt" >}}
+  {{< card link="/metals/copper" title="Copper" subtitle="The electrification metal — copper demand connects directly to the EV and renewable buildout" icon="cube" >}}
+  {{< card link="/semiconductors/downstream-products" title="Downstream Products" subtitle="Where semiconductor demand originates — EVs, AI servers, and consumer devices" icon="chip" >}}
+{{< /cards >}}
+
 ## Sources
 
 {{% details title="ETF information" closed="true" %}}

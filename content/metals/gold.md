@@ -238,6 +238,7 @@ This is the **critical ratio** for understanding gold conviction:
 #### GLD/SLV — Gold vs. Silver (Gold/Silver Ratio)
 - **Rising**: Fear trade dominant — gold outperforming silver
 - **Falling**: Risk appetite — silver's industrial side adds to precious metals bid
+- For more on silver's hybrid nature and the industrial demand drivers, see the [Silver](/metals/silver/) page
 
 #### GLD/UUP — Gold vs. Dollar
 - **Historically inverse**: Strong dollar = weak gold (gold priced in dollars)
