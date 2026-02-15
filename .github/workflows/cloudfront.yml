@@ -50,7 +50,7 @@ jobs:
 
       - name: Download s3deploy
         run: |
-          S3DEPLOY_VERSION=2.12.1
+          S3DEPLOY_VERSION=2.15.0
           curl -sL "https://github.com/bep/s3deploy/releases/download/v${S3DEPLOY_VERSION}/s3deploy_${S3DEPLOY_VERSION}_linux-amd64.tar.gz" | tar xzf - s3deploy
           chmod +x s3deploy
 
