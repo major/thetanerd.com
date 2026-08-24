@@ -9,7 +9,9 @@
   "customManagers": [
     {
       "customType": "regex",
-      "fileMatch": ["^\\.hugo-version$"],
+      "managerFilePatterns": [
+        "/^\\.hugo-version$/"
+      ],
       "matchStrings": ["(?<currentValue>\\d+\\.\\d+\\.\\d+)"],
       "depNameTemplate": "gohugoio/hugo",
       "datasourceTemplate": "github-releases",
@@ -17,7 +19,9 @@
     },
     {
       "customType": "regex",
-      "fileMatch": ["\\.github/workflows/.*\\.yml$"],
+      "managerFilePatterns": [
+        "/\\.github/workflows/.*\\.yml$/"
+      ],
       "matchStrings": ["S3DEPLOY_VERSION=(?<currentValue>\\d+\\.\\d+\\.\\d+)"],
       "depNameTemplate": "bep/s3deploy",
       "datasourceTemplate": "github-releases",
@@ -25,7 +29,9 @@
     },
     {
       "customType": "regex",
-      "fileMatch": ["\\.github/workflows/.*\\.yml$"],
+      "managerFilePatterns": [
+        "/\\.github/workflows/.*\\.yml$/"
+      ],
       "matchStrings": ["go-version:\\s*[\"']?(?<currentValue>\\d+\\.\\d+)[\"']?"],
       "depNameTemplate": "golang",
       "datasourceTemplate": "docker"
@@ -33,8 +39,11 @@
   ],
   "packageRules": [
     {
-      "matchPackagePatterns": ["^github.com/colinwilson/lotusdocs", "^github.com/gohugoio/hugo-mod-bootstrap-scss"],
-      "groupName": "hugo theme modules"
+      "groupName": "hugo theme modules",
+      "matchPackageNames": [
+        "/^github.com/colinwilson/lotusdocs/",
+        "/^github.com/gohugoio/hugo-mod-bootstrap-scss/"
+      ]
     },
     {
       "matchManagers": ["github-actions"],
